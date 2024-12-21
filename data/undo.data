@@ -64,3 +64,14 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20241221T145707Z","end":"20241221T145711Z","tags":["testing"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241221T150223Z","tags":["testing"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241221T150223Z","tags":["testing"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241221T150223Z","end":"20241221T150238Z","tags":["testing"]}
