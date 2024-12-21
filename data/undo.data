@@ -178,3 +178,10 @@ txn:
   type: interval
   before: 
   after: {"id":0,"start":"20241221T151126Z","tags":["testing"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241221T151126Z","tags":["testing"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241221T151126Z","end":"20241221T151133Z","tags":["testing"]}
