@@ -63,9 +63,89 @@ LOG_FILE="${DATA_DIR}/sync.log"
 # Ensure we're in the data directory
 cd "${DATA_DIR}" || exit 1
 
-# Rest of the sync hook code remains the same as before...
-# (Previous sync hook implementation)
-```
+# Initialize change counter if it doesn't exist
+if [ ! -f "$CHANGE_COUNT_FILE" ]; then
+    echo "0" > "$CHANGE_COUNT_FILE"
+fi
+
+# Function to log messages
+log_message() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" >> "$LOG_FILE"
+}
+
+# Function to perform sync
+do_sync() {
+    # Check for lock file
+    if [ -f "$LOCK_FILE" ]; then
+        lock_age=$(($(date +%s) - $(stat -c %Y "$LOCK_FILE")))
+        if [ $lock_age -gt 300 ]; then  # 5 minutes timeout
+            log_message "Removing stale lock file"
+            rm "$LOCK_FILE"
+        else
+            log_message "Sync already in progress, skipping"
+            return 1
+        fi
+    fi
+
+    # Create lock file
+    touch "$LOCK_FILE"
+
+    # Perform sync
+    log_message "Starting sync"
+    
+    # Check for local changes
+    if [[ $(git status --porcelain) ]]; then
+        log_message "Committing local changes"
+        git add .
+        git commit -m "Auto-sync $(date)" >> "$LOG_FILE" 2>&1
+    fi
+
+    # Setup upstream if needed
+    if ! git rev-parse --abbrev-ref --symbolic-full-name @{u} > /dev/null 2>&1; then
+        log_message "Setting up upstream branch"
+        git branch --set-upstream-to=origin/main main >> "$LOG_FILE" 2>&1
+    fi
+
+    # Pull changes
+    log_message "Pulling remote changes"
+    git pull origin main >> "$LOG_FILE" 2>&1
+    
+    # Push changes
+    log_message "Pushing changes"
+    if git push origin main >> "$LOG_FILE" 2>&1; then
+        log_message "Sync completed successfully"
+        echo "0" > "$CHANGE_COUNT_FILE"
+    else
+        log_message "Sync failed"
+    fi
+
+    # Remove lock file
+    rm "$LOCK_FILE"
+}
+
+# Increment change counter
+count=$(cat "$CHANGE_COUNT_FILE")
+count=$((count + 1))
+echo $count > "$CHANGE_COUNT_FILE"
+
+log_message "Increment change counter to $count"
+
+# Check if we should sync
+if [ $count -ge $CHANGES_BEFORE_SYNC ]; then
+    (
+        sleep 2
+        do_sync
+    ) &
+fi
+
+# Pass-through any arguments to support hook chaining
+if [ -n "$1" ]; then
+    exec "$@"
+fi
+EOL
+
+# Make hook executable
+chmod +x ~/.config/timewarrior/extensions/on-modify.sync
 
 ## Updated Setup Instructions
 
