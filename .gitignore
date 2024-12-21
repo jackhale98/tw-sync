@@ -1,0 +1,14 @@
+# TimeWarrior lock files
+*.lock
+
+# Temporary files
+*.tmp
+
+# Local machine specific configs
+*.local
+
+# Log files
+*.log
+
+# Don't sync config directory
+/timewarrior.cfg

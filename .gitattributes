@@ -1,0 +1,11 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Force JSON files to use LF
+*.data text eol=lf
+
+# Treat all TimeWarrior data files as text
+#*.data diff
+
+# Enable git-diff to show JSON diffs more cleanly
+*.data diff=json
