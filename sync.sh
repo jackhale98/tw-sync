@@ -1,9 +1,19 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 # Sync script for TimeWarrior data directory
 cd "${HOME}/.local/share/timewarrior" || exit 1
 
 # Debug output
+=======
+# Source directory configuration
+source ~/.timewarrior-dirs
+
+cd "${DATA_DIR}" || exit 1
+
+# Debug output
+echo "Using TimeWarrior data directory: ${DATA_DIR}"
+>>>>>>> 81f2f61 (Update timewarrior data Mon Dec 23 14:28:13 EST 2024)
 echo "Current git status:"
 git status
 
@@ -23,4 +33,7 @@ fi
 # Simple pull then push
 git pull origin main
 git push origin main
+<<<<<<< HEAD
 
+=======
+>>>>>>> 81f2f61 (Update timewarrior data Mon Dec 23 14:28:13 EST 2024)

@@ -1,0 +1,1245 @@
+{
+  "projects": {
+    "906653": {
+      "id": "906653",
+      "name": "KYP-9500 Quality Management System Development",
+      "description": "",
+      "state": "Active"
+    },
+    "772466": {
+      "id": "772466",
+      "name": "NUE-7565 IVUS Catheter Phase 1A",
+      "description": "",
+      "state": "Active"
+    },
+    "876593": {
+      "id": "876593",
+      "name": "TIS-8749 Clinical Support",
+      "description": "",
+      "state": "Active"
+    },
+    "651325": {
+      "id": "651325",
+      "name": "MPT-6105 Engineering Drawing Conversion",
+      "description": "",
+      "state": "Active"
+    },
+    "906795": {
+      "id": "906795",
+      "name": "CMT-9590 Bolt Case Manufacturing 2025",
+      "description": "",
+      "state": "Active"
+    },
+    "674280": {
+      "id": "674280",
+      "name": "TIS-6164 Skin Tissue Harvesting & Morcellation System Phases 2-5",
+      "description": "",
+      "state": "Active"
+    },
+    "776321": {
+      "id": "776321",
+      "name": "CAR-7598 Endovascular Snare Phase 2A Design Architecture",
+      "description": "",
+      "state": "Active"
+    },
+    "853821": {
+      "id": "853821",
+      "name": "ECT-8540 EyeCool Adhesive Support",
+      "description": "",
+      "state": "Active"
+    },
+    "882086": {
+      "id": "882086",
+      "name": "LUC-9066 EsoGuard Preservative Production H2-2024",
+      "description": "",
+      "state": "Active"
+    },
+    "887443": {
+      "id": "887443",
+      "name": "AUT-8724 Autonomix 5fr Sensing Catheter Ph 1",
+      "description": "",
+      "state": "Active"
+    },
+    "894049": {
+      "id": "894049",
+      "name": "CER-9242 eShunt Backflow Specification and Flow Test Updates",
+      "description": "",
+      "state": "Active"
+    },
+    "870470": {
+      "id": "870470",
+      "name": "EQR-8682 EndoQuest Sheath Development and Manufacturing",
+      "description": "",
+      "state": "Active"
+    },
+    "900066": {
+      "id": "900066",
+      "name": "LUM-8061 DiLumen Scope Seal",
+      "description": "",
+      "state": "Active"
+    },
+    "654394": {
+      "id": "654394",
+      "name": "CMT-6095 Surgical Navigation Device Phase 4 and 5",
+      "description": "",
+      "state": "Active"
+    },
+    "877764": {
+      "id": "877764",
+      "name": "GIW-8956 Short-Term Technical Support- SureFire Flex Debugging",
+      "description": "",
+      "state": "Active"
+    },
+    "840678": {
+      "id": "840678",
+      "name": "TIS-8253 Commercial Design for Manufacturing",
+      "description": "",
+      "state": "Active"
+    },
+    "775247": {
+      "id": "775247",
+      "name": "COV-7597 Gen 3 Blood Collection Device",
+      "description": "",
+      "state": "Active"
+    },
+    "894072": {
+      "id": "894072",
+      "name": "CPR-9219 Disposable Pneumatic Band, Phase 1",
+      "description": "",
+      "state": "Active"
+    },
+    "886148": {
+      "id": "886148",
+      "name": "IAN-9129 Carrier Lot Manufacturing",
+      "description": "",
+      "state": "Active"
+    },
+    "886445": {
+      "id": "886445",
+      "name": "ECT-9135 EyeCool Gen 3.0 Device Manufacturing",
+      "description": "",
+      "state": "Active"
+    },
+    "774010": {
+      "id": "774010",
+      "name": "BRI-7585 System Gen 2.0 V&V and IDE Device Manufacture",
+      "description": "",
+      "state": "Active"
+    },
+    "882093": {
+      "id": "882093",
+      "name": "AQA-9051 Aqua Clinical Travel Support",
+      "description": "",
+      "state": "Active"
+    },
+    "630323": {
+      "id": "630323",
+      "name": "LUC-4146 EsoCheck Gen 3 Engineering",
+      "description": "",
+      "state": "Active"
+    },
+    "881820": {
+      "id": "881820",
+      "name": "GIW-9072 Ti Grasper Support",
+      "description": "",
+      "state": "Active"
+    },
+    "847527": {
+      "id": "847527",
+      "name": "FIL-8129 ChemoFilter Product Design & Development",
+      "description": "",
+      "state": "Active"
+    },
+    "881476": {
+      "id": "881476",
+      "name": "LUC-9041 EsoCheck Gen 3 Ballon Mold Qualification",
+      "description": "",
+      "state": "Active"
+    },
+    "892963": {
+      "id": "892963",
+      "name": "SAG Onboarding Process - Natasha Simmers",
+      "description": "",
+      "state": "Active"
+    },
+    "863925": {
+      "id": "863925",
+      "name": "CMT-8636 Bolt BNU Manufacturing 2024",
+      "description": "",
+      "state": "Active"
+    },
+    "894519": {
+      "id": "894519",
+      "name": "KYP-9222 KyphoCube Phase 2-5",
+      "description": "",
+      "state": "Active"
+    },
+    "723675": {
+      "id": "723675",
+      "name": "GIW-2656 Independent Review",
+      "description": "",
+      "state": "Active"
+    },
+    "884656": {
+      "id": "884656",
+      "name": "SAG-9122 Fall 2024 Snack Run",
+      "description": "",
+      "state": "Active"
+    },
+    "809589": {
+      "id": "809589",
+      "name": "LUM-7991 Lumendi Hoop Balloon Testing",
+      "description": "",
+      "state": "Active"
+    },
+    "865798": {
+      "id": "865798",
+      "name": "SAG-08681 Chamfr Storefront",
+      "description": "",
+      "state": "Active"
+    },
+    "878844": {
+      "id": "878844",
+      "name": "LUC-8981 EsoCheck Packaging Redesign",
+      "description": "",
+      "state": "Active"
+    },
+    "902776": {
+      "id": "902776",
+      "name": "DYM-9521 Dyme Test Fixture Build",
+      "description": "",
+      "state": "Active"
+    },
+    "863921": {
+      "id": "863921",
+      "name": "CMT-8639 Bolt BNU Support 2024",
+      "description": "",
+      "state": "Active"
+    },
+    "897827": {
+      "id": "897827",
+      "name": "CLS-9264 Cerebral Spinal Fluid Temperature Monitoring Development",
+      "description": "",
+      "state": "Active"
+    },
+    "629354": {
+      "id": "629354",
+      "name": "GMS-5803 Npseal Design and Process Improvements",
+      "description": "",
+      "state": "Active"
+    },
+    "889889": {
+      "id": "889889",
+      "name": "AVS-9210 Updated Amplifier DV and Clinical Build",
+      "description": "",
+      "state": "Active"
+    },
+    "858343": {
+      "id": "858343",
+      "name": "KOY-8563 Chronic DVT System Development Phase 1A- Concept",
+      "description": "",
+      "state": "Active"
+    },
+    "876594": {
+      "id": "876594",
+      "name": "TIS-8883 Base Compliance Upgrade",
+      "description": "",
+      "state": "Active"
+    },
+    "861470": {
+      "id": "861470",
+      "name": "AQA-8615 RF Vapor Device Program Management Support",
+      "description": "",
+      "state": "Active"
+    },
+    "884797": {
+      "id": "884797",
+      "name": "KOY-9111 Chronic DVT System, Animal Lab Prototype",
+      "description": "",
+      "state": "Active"
+    },
+    "788127": {
+      "id": "788127",
+      "name": "LUC-7792 EsoGuard Preservative Engineering Support",
+      "description": "",
+      "state": "Active"
+    },
+    "907226": {
+      "id": "907226",
+      "name": "COL-9402 CollaMedix DV and Clinical Build",
+      "description": "",
+      "state": "Active"
+    },
+    "883201": {
+      "id": "883201",
+      "name": "SAG-9008 Sage Ship Testing Project",
+      "description": "",
+      "state": "Active"
+    },
+    "897078": {
+      "id": "897078",
+      "name": "MOZ-9138 Chameleon Gen2 Phase 1A",
+      "description": "",
+      "state": "Active"
+    },
+    "886147": {
+      "id": "886147",
+      "name": "IAN-9128 Cyclopen Manufacturing",
+      "description": "",
+      "state": "Active"
+    },
+    "675752": {
+      "id": "675752",
+      "name": "CER-6428 eShunt 2022_ Year Proposal",
+      "description": "",
+      "state": "Active"
+    },
+    "630788": {
+      "id": "630788",
+      "name": "SAG-4338 Sage Organization",
+      "description": "",
+      "state": "Active"
+    },
+    "901398": {
+      "id": "901398",
+      "name": "VCU-9408 Steerable Tandem Additional Prototypes Proposal",
+      "description": "",
+      "state": "Active"
+    },
+    "858481": {
+      "id": "858481",
+      "name": "FTL-8536 Fluid Lumen and Port Manufacturing Support",
+      "description": "",
+      "state": "Active"
+    },
+    "900611": {
+      "id": "900611",
+      "name": "NED-9413 CombiSphere Engineering Support",
+      "description": "",
+      "state": "Active"
+    },
+    "893916": {
+      "id": "893916",
+      "name": "AQA-9243 Aqua Clinical Device Sterilization",
+      "description": "",
+      "state": "Active"
+    },
+    "866456": {
+      "id": "866456",
+      "name": "CER-8680 eShunt Project- LianMed Support",
+      "description": "",
+      "state": "Active"
+    },
+    "900063": {
+      "id": "900063",
+      "name": "LUM-8630 C1 Updates",
+      "description": "",
+      "state": "Active"
+    },
+    "902940": {
+      "id": "902940",
+      "name": "AMC-9436 Temporary Occluder Manufacturing Equipment",
+      "description": "",
+      "state": "Active"
+    },
+    "906796": {
+      "id": "906796",
+      "name": "CMT-9591 Bolt BNU Manufacturing 2025",
+      "description": "",
+      "state": "Active"
+    },
+    "906799": {
+      "id": "906799",
+      "name": "CMT-9593 Bolt Gen 1 Support 2025",
+      "description": "",
+      "state": "Active"
+    },
+    "883366": {
+      "id": "883366",
+      "name": "SAG-9085 Fall 2024 Co-op Onboarding Process",
+      "description": "",
+      "state": "Active"
+    },
+    "884794": {
+      "id": "884794",
+      "name": "TIS-9042 TissueMill Limited Commercial Release Manufacturing",
+      "description": "",
+      "state": "Active"
+    },
+    "888807": {
+      "id": "888807",
+      "name": "AMC-9203 Rev01 SCure 2 Transfer and Prototype",
+      "description": "",
+      "state": "Active"
+    },
+    "686793": {
+      "id": "686793",
+      "name": "EVS-6622 Suture Cutter Phase 1A Concept",
+      "description": "",
+      "state": "Active"
+    },
+    "880221": {
+      "id": "880221",
+      "name": "VCU-8836 Steerable Tandem Phase 1A Prototype",
+      "description": "",
+      "state": "Active"
+    },
+    "863923": {
+      "id": "863923",
+      "name": "CMT-8637 Bolt Distribution 2024",
+      "description": "",
+      "state": "Active"
+    },
+    "893120": {
+      "id": "893120",
+      "name": "LUM-9298 DiLumen, DiLumen C1, EZ1, Ig, Ik, Im, Is, IgE Support",
+      "description": "",
+      "state": "Active"
+    },
+    "712587": {
+      "id": "712587",
+      "name": "LUC-4380 EsoCheck Bioburden Lot Testing",
+      "description": "",
+      "state": "Active"
+    },
+    "868670": {
+      "id": "868670",
+      "name": "AUT-8725 5Fr RF Catheter Development",
+      "description": "",
+      "state": "Active"
+    },
+    "883091": {
+      "id": "883091",
+      "name": "SOF-9049 EndoFix and Suture Lock DV Builds",
+      "description": "",
+      "state": "Active"
+    },
+    "906797": {
+      "id": "906797",
+      "name": "CMT-9592 Bolt Distribution 2025",
+      "description": "",
+      "state": "Active"
+    },
+    "906802": {
+      "id": "906802",
+      "name": "CMT-9594 Bolt Gen 2 Support 2025",
+      "description": "",
+      "state": "Active"
+    },
+    "629810": {
+      "id": "629810",
+      "name": "SAG-6347 Sage General [ADM, BUS, Holidays, Training]",
+      "description": "",
+      "state": "Active"
+    },
+    "863926": {
+      "id": "863926",
+      "name": "CMT-8635 Bolt Case Manufacturing 2024",
+      "description": "",
+      "state": "Active"
+    },
+    "868083": {
+      "id": "868083",
+      "name": "BRI-8596 BXT-786 System Gen 3.0 Syringe Packaging",
+      "description": "",
+      "state": "Active"
+    },
+    "905465": {
+      "id": "905465",
+      "name": "LUC-9550 EsoCheck Commercial H1 2025",
+      "description": "",
+      "state": "Active"
+    },
+    "664774": {
+      "id": "664774",
+      "name": "LUM-6261 DiLumen UGI DPOCS",
+      "description": "",
+      "state": "Active"
+    },
+    "863922": {
+      "id": "863922",
+      "name": "CMT-8638 Bolt Case Support 2024",
+      "description": "",
+      "state": "Active"
+    },
+    "808666": {
+      "id": "808666",
+      "name": "SAG-8009 Sage Community Projects",
+      "description": "",
+      "state": "Active"
+    },
+    "906103": {
+      "id": "906103",
+      "name": "KRY-9531 U-Lock Bracket Development",
+      "description": "",
+      "state": "Active"
+    },
+    "787415": {
+      "id": "787415",
+      "name": "CBA-7750 Cerebral Aneurysm Engineering",
+      "description": "",
+      "state": "Active"
+    },
+    "630187": {
+      "id": "630187",
+      "name": "SAG-6348 Sage General - MFG",
+      "description": "<p>Billing for Sage Manufacturing Admin time. &nbsp;Hours will be approved by Jeff Sutton</p>",
+      "state": "Active"
+    },
+    "652229": {
+      "id": "652229",
+      "name": "LUM-4822 DiLumen Ig Wrist Phases 2-4",
+      "description": "",
+      "state": "Active"
+    },
+    "855293": {
+      "id": "855293",
+      "name": "IAN-8559 Manufacturing Support",
+      "description": "",
+      "state": "Active"
+    },
+    "799194": {
+      "id": "799194",
+      "name": "SAG-7928 Sage Charitable Efforts",
+      "description": "",
+      "state": "Active"
+    },
+    "888132": {
+      "id": "888132",
+      "name": "COL-8760 CollaSling Shealth Phase 2A Prototype",
+      "description": "",
+      "state": "Active"
+    }
+  },
+  "tasks": {
+    "863922": [
+      {
+        "id": "44325690",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "44325693",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "44602811",
+        "name": "999 Direct Materials"
+      },
+      {
+        "id": "44602813",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "46194353",
+        "name": "1. Update documentation"
+      },
+      {
+        "id": "46194354",
+        "name": "2. Update specifications"
+      },
+      {
+        "id": "46471813",
+        "name": "3. DCO generation, document update, approval"
+      },
+      {
+        "id": "46494188",
+        "name": "4. Source and order components"
+      },
+      {
+        "id": "46538124",
+        "name": "5. Misc Support requested by client"
+      },
+      {
+        "id": "46569894",
+        "name": "6. Management and Business Review meeting"
+      },
+      {
+        "id": "46760266",
+        "name": "7. Process Monitoring Development and Tasks"
+      },
+      {
+        "id": "46953995",
+        "name": "8. Incorrect Label: documentation, meetings, rework"
+      }
+    ],
+    "840678": [
+      {
+        "id": "41773167",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "41773168",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "41773169",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "41773170",
+        "name": "999 Direct Materials"
+      },
+      {
+        "id": "41773237",
+        "name": "2.1 BOM & Router Review"
+      },
+      {
+        "id": "41773238",
+        "name": "2.3 Review Process for Optimization"
+      },
+      {
+        "id": "41773240",
+        "name": "2.4 Brainstorm (design changes, process changes, etc.)"
+      },
+      {
+        "id": "41773281",
+        "name": "RFQ"
+      },
+      {
+        "id": "41773282",
+        "name": "Review quotes"
+      },
+      {
+        "id": "41773283",
+        "name": "Select supplier & place POs"
+      },
+      {
+        "id": "41806745",
+        "name": "2.2 Timing studies during Clinical Builds"
+      },
+      {
+        "id": "41816856",
+        "name": "Receive in parts & inspections"
+      },
+      {
+        "id": "41990516",
+        "name": "Conduct DV builds"
+      },
+      {
+        "id": "45778393",
+        "name": "1.1 International component inspection & testing"
+      },
+      {
+        "id": "45778418",
+        "name": "1.2 International component test results"
+      },
+      {
+        "id": "45788437",
+        "name": "1.3 Component Material Verification"
+      },
+      {
+        "id": "45790177",
+        "name": "2.8 Request Quotes"
+      },
+      {
+        "id": "45790183",
+        "name": "1.4 Review results"
+      },
+      {
+        "id": "45790980",
+        "name": "2.5 Generate summary of Brainstorm"
+      },
+      {
+        "id": "45790982",
+        "name": "2.6 Down Select Opportunities (Near vs Long Term)"
+      },
+      {
+        "id": "45818282",
+        "name": "2.9 Generate Preliminary COGS Reduction Graph"
+      },
+      {
+        "id": "45818325",
+        "name": "2.11 Regulatory guidance on Plan"
+      },
+      {
+        "id": "46102811",
+        "name": "2.7 Preliminary Design Modifications"
+      },
+      {
+        "id": "46102837",
+        "name": "2.10 Generate updated Project Plan"
+      },
+      {
+        "id": "46102841",
+        "name": "Part 4 - Design Verification Near Term COGS Reductions  - TBD"
+      },
+      {
+        "id": "46102853",
+        "name": "New Task"
+      }
+    ],
+    "906795": [
+      {
+        "id": "48030710",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "48030711",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "48030712",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "48030713",
+        "name": "999 Direct Materials"
+      }
+    ],
+    "865798": [
+      {
+        "id": "44528069",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "44528070",
+        "name": "999 Direct Materials"
+      },
+      {
+        "id": "44528075",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "44528078",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "45050819",
+        "name": "001 Generate Quality Plan"
+      },
+      {
+        "id": "45050820",
+        "name": "002 Update Quality System"
+      },
+      {
+        "id": "45050823",
+        "name": "010 Determine product sizes"
+      },
+      {
+        "id": "45050824",
+        "name": "020 Determine hypotube size and cut"
+      },
+      {
+        "id": "45050825",
+        "name": "030 Determine OTS components"
+      },
+      {
+        "id": "45050826",
+        "name": "006 Determine custom components"
+      },
+      {
+        "id": "45050827",
+        "name": "050 Determine Packaging"
+      },
+      {
+        "id": "45050829",
+        "name": "060 Generate hypotube drawings"
+      },
+      {
+        "id": "45050830",
+        "name": "009 Generate custom component drawings"
+      },
+      {
+        "id": "45050832",
+        "name": "008 Order and receive OTS components"
+      },
+      {
+        "id": "45050833",
+        "name": "009 Order and receive hypotubes"
+      },
+      {
+        "id": "45050834",
+        "name": "012 Order and receive custom components"
+      },
+      {
+        "id": "45050835",
+        "name": "010 Order packaging and test"
+      },
+      {
+        "id": "45050836",
+        "name": "011 Order final packaging"
+      },
+      {
+        "id": "45050838",
+        "name": "013 Design Labels"
+      },
+      {
+        "id": "45050841",
+        "name": "014 Generate Hypotube Inspection Forms"
+      },
+      {
+        "id": "45050842",
+        "name": "017 Generate custom component Inspection Forms"
+      },
+      {
+        "id": "45050846",
+        "name": "019 Procure Laser micrometer"
+      },
+      {
+        "id": "45050847",
+        "name": "016 Procure Roll Cutter"
+      },
+      {
+        "id": "45050849",
+        "name": "017 Write IQ Laminator Protocol"
+      },
+      {
+        "id": "45050850",
+        "name": "022 Write Laser Mic IQ OQ PQ"
+      },
+      {
+        "id": "45050853",
+        "name": "024 Complete IQ OQ PQ for Laser Mic"
+      },
+      {
+        "id": "45050855",
+        "name": "018 Complete IQ for Laminator"
+      },
+      {
+        "id": "45050856",
+        "name": "027 Write and Approve IQ OQ PQ Laser Mic Report"
+      },
+      {
+        "id": "45050858",
+        "name": "019 Write and Approve IQ Laminator Report"
+      },
+      {
+        "id": "45050860",
+        "name": "020 Create general lamination MPI and Router"
+      },
+      {
+        "id": "45050861",
+        "name": "021 Create lamination receipe for OTS Parts"
+      },
+      {
+        "id": "45050862",
+        "name": "032 Create lamination receipe for custom parts"
+      },
+      {
+        "id": "45050865",
+        "name": "022 Develop pick pack ship procedure"
+      },
+      {
+        "id": "45050866",
+        "name": "023 Create CoC's and Packing Lists"
+      },
+      {
+        "id": "45050868",
+        "name": "024 Create manufacturing area"
+      },
+      {
+        "id": "45050869",
+        "name": "025 Manufacture stock components"
+      },
+      {
+        "id": "45050871",
+        "name": "027 Conduct test order"
+      },
+      {
+        "id": "45050872",
+        "name": "026 Complete onboarding documentation"
+      },
+      {
+        "id": "46787943",
+        "name": "Initial Launch"
+      },
+      {
+        "id": "46787944",
+        "name": "Expanding Offerings"
+      },
+      {
+        "id": "46787948",
+        "name": "015 Generate OTS Component Inspection Forms"
+      },
+      {
+        "id": "46789389",
+        "name": "Write OQ PQ Protocol for Laminator"
+      },
+      {
+        "id": "46789390",
+        "name": "Complete OQ PQ for Laminator"
+      },
+      {
+        "id": "46789393",
+        "name": "Write OQ PQ Report for Laminator"
+      },
+      {
+        "id": "46789629",
+        "name": "012 Order OTS Launch materials"
+      },
+      {
+        "id": "46789708",
+        "name": "040 Create OTS Component Specs"
+      }
+    ],
+    "900074": [
+      {
+        "id": "47440993",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "47440994",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "47440995",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "47440996",
+        "name": "999 Direct Materials"
+      },
+      {
+        "id": "47664690",
+        "name": "1 Year Real Time Aging"
+      },
+      {
+        "id": "47664691",
+        "name": "Generate 1 Year RTA protocol"
+      },
+      {
+        "id": "47664692",
+        "name": "Conduct 1 Year RTA"
+      },
+      {
+        "id": "47664693",
+        "name": "Generate 1 Year RTA Report"
+      },
+      {
+        "id": "47664694",
+        "name": "3 Year Real Time Aging"
+      },
+      {
+        "id": "47664695",
+        "name": "Generate 3 Year RTA Protocol"
+      },
+      {
+        "id": "47664696",
+        "name": "Conduct 3 Year RTA Testing"
+      },
+      {
+        "id": "47664697",
+        "name": "Generate 3 Year RTA Report"
+      },
+      {
+        "id": "47664699",
+        "name": "Real time age units (3 years)"
+      },
+      {
+        "id": "47664703",
+        "name": "Real time age units (1 years)"
+      },
+      {
+        "id": "47664704",
+        "name": "Case Builds"
+      },
+      {
+        "id": "47664705",
+        "name": "General Build Support"
+      },
+      {
+        "id": "47664706",
+        "name": "Build RTA Units"
+      },
+      {
+        "id": "47664708",
+        "name": "Labelling"
+      },
+      {
+        "id": "47664709",
+        "name": "Validate New Labels"
+      },
+      {
+        "id": "47664710",
+        "name": "Create samples"
+      },
+      {
+        "id": "47664712",
+        "name": "Condition new label samples"
+      },
+      {
+        "id": "47664713",
+        "name": "Test new label samples"
+      },
+      {
+        "id": "47664714",
+        "name": "Generate Label Adhesion Validation Report"
+      },
+      {
+        "id": "47664716",
+        "name": "General Label Updates"
+      },
+      {
+        "id": "47664718",
+        "name": "Documentation Support"
+      },
+      {
+        "id": "47664720",
+        "name": "Update V&V reports for sterilization information"
+      },
+      {
+        "id": "47664723",
+        "name": "Sterilization"
+      },
+      {
+        "id": "47664724",
+        "name": "Create Sterilization Control Plan"
+      },
+      {
+        "id": "47664725",
+        "name": "Release bioburden and dose audit MPI"
+      },
+      {
+        "id": "47664727",
+        "name": "Update T0 Report"
+      },
+      {
+        "id": "47664728",
+        "name": "Release Case Control Plan"
+      }
+    ],
+    "906802": [
+      {
+        "id": "48030748",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "48030749",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "48030750",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "48030751",
+        "name": "999 Direct Materials"
+      }
+    ],
+    "884794": [
+      {
+        "id": "46681601",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "46681602",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "46681603",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "46681604",
+        "name": "999 Direct Materials"
+      },
+      {
+        "id": "46743314",
+        "name": "Limited Commercial Release Manufacturing"
+      },
+      {
+        "id": "46743342",
+        "name": "Generate Protocols"
+      },
+      {
+        "id": "46743354",
+        "name": "Order Components"
+      },
+      {
+        "id": "46743361",
+        "name": "Build Devices"
+      },
+      {
+        "id": "46743362",
+        "name": "DV Testing"
+      },
+      {
+        "id": "46743363",
+        "name": "Reports"
+      },
+      {
+        "id": "46743364",
+        "name": "Commercial Build"
+      },
+      {
+        "id": "46743379",
+        "name": "010 Create Quality Plan"
+      },
+      {
+        "id": "46743380",
+        "name": "020 Create Draft DV Protocol"
+      },
+      {
+        "id": "46743381",
+        "name": "030 Approve Documentation"
+      },
+      {
+        "id": "46743382",
+        "name": "040 Get Quotes"
+      },
+      {
+        "id": "46743383",
+        "name": "050 Order Metal Components"
+      },
+      {
+        "id": "46743384",
+        "name": "060 Order OTS Components"
+      },
+      {
+        "id": "46743385",
+        "name": "070 Receive and Inspect Metal Components"
+      },
+      {
+        "id": "46743386",
+        "name": "080 Receive and Inspect OTS Components"
+      },
+      {
+        "id": "46743388",
+        "name": "090 Build DV Lot (QTY = 36)"
+      },
+      {
+        "id": "46743390",
+        "name": "100 Sterilize Devices"
+      },
+      {
+        "id": "46743391",
+        "name": "110 Conduct DV Testing of Devices"
+      },
+      {
+        "id": "46743392",
+        "name": "120 Generate DV Report"
+      },
+      {
+        "id": "46743393",
+        "name": "130 Update Component Specification"
+      },
+      {
+        "id": "46743394",
+        "name": "140 DCO Release"
+      },
+      {
+        "id": "46743396",
+        "name": "150 Build Devices (QTY = 144)"
+      },
+      {
+        "id": "46743397",
+        "name": "160 Sterilize Devices"
+      },
+      {
+        "id": "46743398",
+        "name": "170 Release Commercial Lot"
+      }
+    ],
+    "906103": [
+      {
+        "id": "47980389",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "47980390",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "47980391",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "47980392",
+        "name": "999 Direct Materials"
+      },
+      {
+        "id": "48023520",
+        "name": "001 Brainstorm"
+      },
+      {
+        "id": "48046203",
+        "name": "002 Brainstorm Report"
+      }
+    ],
+    "876593": [
+      {
+        "id": "45645361",
+        "name": "996 Engineering Time"
+      },
+      {
+        "id": "45645362",
+        "name": "997 Project Meetings"
+      },
+      {
+        "id": "45645363",
+        "name": "998 Project Management"
+      },
+      {
+        "id": "45645364",
+        "name": "999 Direct Materials"
+      },
+      {
+        "id": "46282359",
+        "name": "001 Open Clinical Devices"
+      },
+      {
+        "id": "46719337",
+        "name": "002 Plan Expiration Risk Mitigation"
+      },
+      {
+        "id": "46867658",
+        "name": "003 Conduct bubble leak testing"
+      }
+    ],
+    "629810": [
+      {
+        "id": "29566656",
+        "name": "Sage Holiday"
+      },
+      {
+        "id": "29579160",
+        "name": "Sage ADM"
+      },
+      {
+        "id": "29579161",
+        "name": "Sage BUS"
+      },
+      {
+        "id": "29602059",
+        "name": "Sage Floating Holiday"
+      },
+      {
+        "id": "29602068",
+        "name": "Sage HR"
+      },
+      {
+        "id": "29602069",
+        "name": "Sage QMS"
+      },
+      {
+        "id": "29640635",
+        "name": "Sage ADM Travel"
+      },
+      {
+        "id": "29640684",
+        "name": "Sage ETO"
+      },
+      {
+        "id": "29877877",
+        "name": "Sage Training"
+      },
+      {
+        "id": "30524825",
+        "name": "Direct Materials"
+      },
+      {
+        "id": "31477734",
+        "name": "Sage Sick Time"
+      },
+      {
+        "id": "46750910",
+        "name": "Sage Co-op Recruiting"
+      }
+    ]
+  },
+  "last_updated": "2025-01-17T21:22:21.878216951Z",
+  "user_prefs": {
+    "username": "Jack Hale",
+    "time_code": "144794"
+  }
+}
