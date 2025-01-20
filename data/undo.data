@@ -2983,3 +2983,100 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250120T185921Z","end":"20250120T191008Z","tags":["description:fix time syncing","project:ADM","uuid:5e91f0cf-e13f-49dd-bbe3-eec3850e5008"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T191430Z","tags":["description:fix time syncing","project:ADM","uuid:5e91f0cf-e13f-49dd-bbe3-eec3850e5008"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T191430Z","tags":["description:fix time syncing","project:ADM","uuid:5e91f0cf-e13f-49dd-bbe3-eec3850e5008"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T191430Z","end":"20250120T191852Z","tags":["description:fix time syncing","project:ADM","uuid:5e91f0cf-e13f-49dd-bbe3-eec3850e5008"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T191852Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T191852Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T191852Z","end":"20250120T192545Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T192604Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T192604Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T192604Z","end":"20250120T192745Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T192745Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:74e09af4-d24e-414a-ae06-49309aa65804"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T192745Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:74e09af4-d24e-414a-ae06-49309aa65804"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T192745Z","end":"20250120T192825Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:74e09af4-d24e-414a-ae06-49309aa65804"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T192847Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:74e09af4-d24e-414a-ae06-49309aa65804"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T192847Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:74e09af4-d24e-414a-ae06-49309aa65804"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T192847Z","end":"20250120T195219Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:74e09af4-d24e-414a-ae06-49309aa65804"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T195219Z","tags":["description:finalize timesheet upload software","project:ADM","uuid:14d7c34a-63c9-4281-bd1d-f44abb31c58e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T195219Z","tags":["description:finalize timesheet upload software","project:ADM","uuid:14d7c34a-63c9-4281-bd1d-f44abb31c58e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T195219Z","end":"20250120T200946Z","tags":["description:finalize timesheet upload software","project:ADM","uuid:14d7c34a-63c9-4281-bd1d-f44abb31c58e"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T200946Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T200946Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T200946Z","end":"20250120T203555Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T203555Z","tags":["description:order benson box for shipping to sterilizer","project:TIS","uuid:253c4c56-6c35-4ff1-9c37-8a69ad2e8364"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T203555Z","tags":["description:order benson box for shipping to sterilizer","project:TIS","uuid:253c4c56-6c35-4ff1-9c37-8a69ad2e8364"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T203555Z","end":"20250120T205733Z","tags":["description:order benson box for shipping to sterilizer","project:TIS","uuid:253c4c56-6c35-4ff1-9c37-8a69ad2e8364"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250120T205733Z","tags":["description:finalize timesheet upload software","project:ADM","uuid:14d7c34a-63c9-4281-bd1d-f44abb31c58e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250120T205733Z","tags":["description:finalize timesheet upload software","project:ADM","uuid:14d7c34a-63c9-4281-bd1d-f44abb31c58e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250120T205733Z","end":"20250120T214917Z","tags":["description:finalize timesheet upload software","project:ADM","uuid:14d7c34a-63c9-4281-bd1d-f44abb31c58e"]}
