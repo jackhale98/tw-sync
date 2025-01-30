@@ -3080,3 +3080,2357 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250120T205733Z","end":"20250120T214917Z","tags":["description:finalize timesheet upload software","project:ADM","uuid:14d7c34a-63c9-4281-bd1d-f44abb31c58e"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T133133Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T133133Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T133133Z","end":"20250121T133404Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T133408Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T133408Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T133408Z","end":"20250121T134759Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T134759Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T134759Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T134759Z","end":"20250121T140305Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T140305Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T140305Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T140305Z","tags":["description:approve timesheets","project:ADM","uuid:913f0588-8144-4e8a-a1cd-106a4be38daf"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T140305Z","tags":["description:approve timesheets","project:ADM","uuid:913f0588-8144-4e8a-a1cd-106a4be38daf"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T140305Z","end":"20250121T140815Z","tags":["description:approve timesheets","project:ADM","uuid:913f0588-8144-4e8a-a1cd-106a4be38daf"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T140815Z","tags":["description:prep for annual review","project:ADM","uuid:d4d89fcf-1ec6-4a38-af35-a1f12046116b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T140815Z","tags":["description:prep for annual review","project:ADM","uuid:d4d89fcf-1ec6-4a38-af35-a1f12046116b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T140815Z","end":"20250121T142203Z","tags":["description:prep for annual review","project:ADM","uuid:d4d89fcf-1ec6-4a38-af35-a1f12046116b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T142203Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T142203Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T142203Z","end":"20250121T142751Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T142751Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:579ec294-8188-43a9-8f22-61912bac39a6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T142751Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:579ec294-8188-43a9-8f22-61912bac39a6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T142751Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:9bf646c7-a792-4252-a903-eb900971f6f8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T142751Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:9bf646c7-a792-4252-a903-eb900971f6f8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T142751Z","end":"20250121T150602Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:9bf646c7-a792-4252-a903-eb900971f6f8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T150602Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T150602Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T150602Z","end":"20250121T162224Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T162224Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T162224Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T162224Z","end":"20250121T162700Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T162700Z","tags":["description:TissueMill Huddle","project:TIS","tag:meeting","uuid:cf23cefb-e146-4bc8-83b4-31c1ffbacf06"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T162700Z","tags":["description:TissueMill Huddle","project:TIS","tag:meeting","uuid:cf23cefb-e146-4bc8-83b4-31c1ffbacf06"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T162700Z","end":"20250121T170429Z","tags":["description:TissueMill Huddle","project:TIS","tag:meeting","uuid:cf23cefb-e146-4bc8-83b4-31c1ffbacf06"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T170429Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T170429Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T170429Z","end":"20250121T171707Z","tags":["description:determine costs for storage","project:CMT","uuid:3dce2f03-762c-4357-8b1a-5050eb242cea"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T173551Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T173551Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T173551Z","end":"20250121T181926Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T181926Z","tags":["description:review debur for kakk","project:TIS","uuid:5eae7e65-419c-44b6-8f2d-48af280cba26"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T181926Z","tags":["description:review debur for kakk","project:TIS","uuid:5eae7e65-419c-44b6-8f2d-48af280cba26"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T181926Z","end":"20250121T182438Z","tags":["description:review debur for kakk","project:TIS","uuid:5eae7e65-419c-44b6-8f2d-48af280cba26"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T182438Z","tags":["description:add comment for gen 1 lot label printing","project:CMT","uuid:9e6f4142-eac5-4285-9d8d-a46bc79e7532"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T182438Z","tags":["description:add comment for gen 1 lot label printing","project:CMT","uuid:9e6f4142-eac5-4285-9d8d-a46bc79e7532"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T182438Z","end":"20250121T183247Z","tags":["description:add comment for gen 1 lot label printing","project:CMT","uuid:9e6f4142-eac5-4285-9d8d-a46bc79e7532"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T183247Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T183247Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T183247Z","end":"20250121T185715Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T185715Z","tags":["description:annual review","project:ADM","tag:meeting","uuid:b7764979-b902-4bde-8481-db8c9a5b9778"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T185715Z","tags":["description:annual review","project:ADM","tag:meeting","uuid:b7764979-b902-4bde-8481-db8c9a5b9778"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T185715Z","end":"20250121T202718Z","tags":["description:annual review","project:ADM","tag:meeting","uuid:b7764979-b902-4bde-8481-db8c9a5b9778"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T202718Z","tags":["description:Discuss storage with Jeff","project:ADM","tag:meeting","uuid:8287c054-b792-4afd-8cce-5d5480ca7956"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T202718Z","tags":["description:Discuss storage with Jeff","project:ADM","tag:meeting","uuid:8287c054-b792-4afd-8cce-5d5480ca7956"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T202718Z","end":"20250121T210236Z","tags":["description:Discuss storage with Jeff","project:ADM","tag:meeting","uuid:8287c054-b792-4afd-8cce-5d5480ca7956"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T210236Z","tags":["description:discuss labeling with Rob","project:CMT","uuid:3dddd514-7832-4fd0-8a4b-2bf11da51ed5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T210236Z","tags":["description:discuss labeling with Rob","project:CMT","uuid:3dddd514-7832-4fd0-8a4b-2bf11da51ed5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T210236Z","end":"20250121T210807Z","tags":["description:discuss labeling with Rob","project:CMT","uuid:3dddd514-7832-4fd0-8a4b-2bf11da51ed5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T210807Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T210807Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T210807Z","end":"20250121T212522Z","tags":["description:ship devices","project:CHAMFR","uuid:7dc8ad7a-5302-46cf-b05a-6e58ded89f26"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T212522Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T212522Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T212522Z","end":"20250121T213156Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T213156Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T213156Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T213156Z","end":"20250121T213439Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T213439Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T213439Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T213439Z","end":"20250121T214017Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T214017Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T214017Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T214017Z","tags":["description:approve timesheets","project:ADM","uuid:913f0588-8144-4e8a-a1cd-106a4be38daf"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T214017Z","tags":["description:approve timesheets","project:ADM","uuid:913f0588-8144-4e8a-a1cd-106a4be38daf"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T214017Z","end":"20250121T214113Z","tags":["description:approve timesheets","project:ADM","uuid:913f0588-8144-4e8a-a1cd-106a4be38daf"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T214113Z","tags":["description:look into 3DP log in celoxis","project:ADM","uuid:76b11ed5-5a78-4896-952f-786b28d76e74"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T214113Z","tags":["description:look into 3DP log in celoxis","project:ADM","uuid:76b11ed5-5a78-4896-952f-786b28d76e74"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T214113Z","end":"20250121T215043Z","tags":["description:look into 3DP log in celoxis","project:ADM","uuid:76b11ed5-5a78-4896-952f-786b28d76e74"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250121T215043Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250121T215043Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250121T215043Z","end":"20250122T134201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T134209Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T134209Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T134209Z","end":"20250122T134440Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T134440Z","tags":["description:help nat with Gen 1 labeling","project:CMT","uuid:789a64a7-6206-4ce5-8e42-e855528977f3"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T134440Z","tags":["description:help nat with Gen 1 labeling","project:CMT","uuid:789a64a7-6206-4ce5-8e42-e855528977f3"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T134440Z","end":"20250122T135055Z","tags":["description:help nat with Gen 1 labeling","project:CMT","uuid:789a64a7-6206-4ce5-8e42-e855528977f3"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T135055Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T135055Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T135055Z","end":"20250122T135252Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T135258Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T135258Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T135258Z","end":"20250122T140514Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T140514Z","tags":["description:build commercial cutting assemblies","project:TIS","uuid:e401faab-d6b9-4896-afdd-2ab14a063880"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T140514Z","tags":["description:build commercial cutting assemblies","project:TIS","uuid:e401faab-d6b9-4896-afdd-2ab14a063880"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T140514Z","end":"20250122T141514Z","tags":["description:build commercial cutting assemblies","project:TIS","uuid:e401faab-d6b9-4896-afdd-2ab14a063880"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T141514Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T141514Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T141514Z","end":"20250122T141724Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T141724Z","tags":["description:order benson box for shipping to sterilizer","project:TIS","uuid:253c4c56-6c35-4ff1-9c37-8a69ad2e8364"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T141724Z","tags":["description:order benson box for shipping to sterilizer","project:TIS","uuid:253c4c56-6c35-4ff1-9c37-8a69ad2e8364"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T141724Z","end":"20250122T141928Z","tags":["description:order benson box for shipping to sterilizer","project:TIS","uuid:253c4c56-6c35-4ff1-9c37-8a69ad2e8364"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T141928Z","tags":["description:Update BNU MPIs","project:CMT","uuid:88d3859c-c495-4533-9e4c-e8b36d78ee14"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T141928Z","tags":["description:Update BNU MPIs","project:CMT","uuid:88d3859c-c495-4533-9e4c-e8b36d78ee14"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T141928Z","end":"20250122T143132Z","tags":["description:Update BNU MPIs","project:CMT","uuid:88d3859c-c495-4533-9e4c-e8b36d78ee14"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T143132Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T143132Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T143132Z","end":"20250122T150222Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T150223Z","tags":["description:organize filling cabinet","project:ADM","uuid:5fdf4bc7-304c-491d-b7aa-17cbfb357fbf"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T150223Z","tags":["description:organize filling cabinet","project:ADM","uuid:5fdf4bc7-304c-491d-b7aa-17cbfb357fbf"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T150223Z","end":"20250122T151540Z","tags":["description:organize filling cabinet","project:ADM","uuid:5fdf4bc7-304c-491d-b7aa-17cbfb357fbf"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T151540Z","tags":["description:organize old sales order paperwork","project:CMT","uuid:92f58122-a138-40e3-937b-7b04fee73657"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T151540Z","tags":["description:organize old sales order paperwork","project:CMT","uuid:92f58122-a138-40e3-937b-7b04fee73657"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T151540Z","end":"20250122T151956Z","tags":["description:organize old sales order paperwork","project:CMT","uuid:92f58122-a138-40e3-937b-7b04fee73657"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T151956Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T151956Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T151956Z","end":"20250122T160135Z","tags":["description:discuss rejected disks with eliza","project:TIS","uuid:bb6e5cbf-a887-426e-b02d-0542b017a5a2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T160135Z","tags":["description:discuss EVA with Peter","project:ADM","uuid:10ed76ac-11c5-40d6-bebb-7b7578bbe697"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T160135Z","tags":["description:discuss EVA with Peter","project:ADM","uuid:10ed76ac-11c5-40d6-bebb-7b7578bbe697"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T160135Z","end":"20250122T160651Z","tags":["description:discuss EVA with Peter","project:ADM","uuid:10ed76ac-11c5-40d6-bebb-7b7578bbe697"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T160651Z","tags":["description:look into microport moving for Amos","project:ADM","uuid:16c1a62d-617a-4d82-a15b-fee22046b079"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T160651Z","tags":["description:look into microport moving for Amos","project:ADM","uuid:16c1a62d-617a-4d82-a15b-fee22046b079"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T160651Z","end":"20250122T161948Z","tags":["description:look into microport moving for Amos","project:ADM","uuid:16c1a62d-617a-4d82-a15b-fee22046b079"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T161948Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T161948Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T161948Z","end":"20250122T162958Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T162958Z","tags":["description:fix nextflo assembly per Jessie request","project:PAV","uuid:f1f7118c-e781-483f-8cc2-ff6f4619edf9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T162958Z","tags":["description:fix nextflo assembly per Jessie request","project:PAV","uuid:f1f7118c-e781-483f-8cc2-ff6f4619edf9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T162958Z","end":"20250122T171500Z","tags":["description:fix nextflo assembly per Jessie request","project:PAV","uuid:f1f7118c-e781-483f-8cc2-ff6f4619edf9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T173516Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T173516Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T173516Z","end":"20250122T175501Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T175501Z","tags":["description:help liem","project:ADM","uuid:25dd6915-62bb-47ca-a91d-208f40eb4208"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T175501Z","tags":["description:help liem","project:ADM","uuid:25dd6915-62bb-47ca-a91d-208f40eb4208"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T175501Z","end":"20250122T180201Z","tags":["description:help liem","project:ADM","uuid:25dd6915-62bb-47ca-a91d-208f40eb4208"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T180201Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T180201Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T180201Z","end":"20250122T182344Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T182344Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":21,"start":"20250121T215043Z","end":"20250122T134201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":21,"start":"20250121T215043Z","end":"20250122T084201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":21,"start":"20250121T215043Z","end":"20250122T084201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":21,"start":"20250121T215043Z","end":"20250122T034201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":21,"start":"20250121T215043Z","end":"20250122T034201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":21,"start":"20250121T215043Z","end":"20250121T224201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":21,"start":"20250121T215043Z","end":"20250121T224201Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":21,"start":"20250121T215043Z","end":"20250121T220001Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T182344Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T182344Z","end":"20250122T193546Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T193546Z","tags":["description:prep for TIS call","project:TIS","uuid:5100a99a-8ce9-4fe1-96c8-814d3148c24e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T193546Z","tags":["description:prep for TIS call","project:TIS","uuid:5100a99a-8ce9-4fe1-96c8-814d3148c24e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T193546Z","end":"20250122T194019Z","tags":["description:prep for TIS call","project:TIS","uuid:5100a99a-8ce9-4fe1-96c8-814d3148c24e"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T194019Z","tags":["description:project reviews","project:ADM","tag:meeting","uuid:ec8d3b24-da41-4956-bee5-aa70a5911135"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T194019Z","tags":["description:project reviews","project:ADM","tag:meeting","uuid:ec8d3b24-da41-4956-bee5-aa70a5911135"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T194019Z","end":"20250122T200355Z","tags":["description:project reviews","project:ADM","tag:meeting","uuid:ec8d3b24-da41-4956-bee5-aa70a5911135"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T200355Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T200355Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T200355Z","end":"20250122T201853Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T201853Z","tags":["description:fix single project selection","project:CELOXIS","uuid:36f4ea27-fb2f-4dc6-9165-a4ec8dd230ca"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T201853Z","tags":["description:fix single project selection","project:CELOXIS","uuid:36f4ea27-fb2f-4dc6-9165-a4ec8dd230ca"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T201853Z","end":"20250122T202857Z","tags":["description:fix single project selection","project:CELOXIS","uuid:36f4ea27-fb2f-4dc6-9165-a4ec8dd230ca"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T202857Z","tags":["description:weekly meeting with alain","project:TIS","uuid:b2641f69-0bc6-4f8d-aa87-7834f2b06261"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T202857Z","tags":["description:weekly meeting with alain","project:TIS","uuid:b2641f69-0bc6-4f8d-aa87-7834f2b06261"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T202857Z","end":"20250122T220852Z","tags":["description:weekly meeting with alain","project:TIS","uuid:b2641f69-0bc6-4f8d-aa87-7834f2b06261"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T220853Z","tags":["description:discuss celoxis with peter","project:ADM","uuid:6ef365a4-7903-42f8-a6ee-7fcacc8c8160"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T220853Z","tags":["description:discuss celoxis with peter","project:ADM","uuid:6ef365a4-7903-42f8-a6ee-7fcacc8c8160"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T220853Z","end":"20250122T222151Z","tags":["description:discuss celoxis with peter","project:ADM","uuid:6ef365a4-7903-42f8-a6ee-7fcacc8c8160"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T133021Z","tags":["description:Update BNU MPIs","project:CMT","uuid:88d3859c-c495-4533-9e4c-e8b36d78ee14"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T133021Z","tags":["description:Update BNU MPIs","project:CMT","uuid:88d3859c-c495-4533-9e4c-e8b36d78ee14"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T133021Z","end":"20250123T133635Z","tags":["description:Update BNU MPIs","project:CMT","uuid:88d3859c-c495-4533-9e4c-e8b36d78ee14"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T133635Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T133635Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T133635Z","end":"20250123T134457Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T134505Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T134505Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T134505Z","end":"20250123T135827Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T135827Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T135827Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T135827Z","end":"20250123T140419Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T140419Z","tags":["description:file disk inspection DCO","project:TIS","uuid:877dee57-b710-449e-bcd8-99e537f1c964"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T140419Z","tags":["description:file disk inspection DCO","project:TIS","uuid:877dee57-b710-449e-bcd8-99e537f1c964"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T140419Z","end":"20250123T141654Z","tags":["description:file disk inspection DCO","project:TIS","uuid:877dee57-b710-449e-bcd8-99e537f1c964"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T141654Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T141654Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T141654Z","end":"20250123T153714Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T153714Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T153714Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T153714Z","end":"20250123T154338Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T154338Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T154338Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T154338Z","end":"20250123T162909Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T165149Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T165149Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T165149Z","end":"20250123T165254Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T165254Z","tags":["description:generate quality plan for limited release","project:TIS","tag:Eliza","tag:wait","uuid:64fc23de-157f-4c55-9918-deef094111f9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T165254Z","tags":["description:generate quality plan for limited release","project:TIS","tag:Eliza","tag:wait","uuid:64fc23de-157f-4c55-9918-deef094111f9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T165254Z","end":"20250123T165448Z","tags":["description:generate quality plan for limited release","project:TIS","tag:Eliza","tag:wait","uuid:64fc23de-157f-4c55-9918-deef094111f9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T165448Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T165448Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T165448Z","end":"20250123T165920Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T165920Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T165920Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T165920Z","end":"20250123T170408Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T170409Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T170409Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T170409Z","end":"20250123T170521Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T170522Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T170522Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T170522Z","end":"20250123T171005Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T171005Z","tags":["description:discuss engineering design with Jay","project:ADM","uuid:fb2cbff7-481c-4d4f-aed6-bc4c19f378ee"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T171005Z","tags":["description:discuss engineering design with Jay","project:ADM","uuid:fb2cbff7-481c-4d4f-aed6-bc4c19f378ee"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T171005Z","end":"20250123T171054Z","tags":["description:discuss engineering design with Jay","project:ADM","uuid:fb2cbff7-481c-4d4f-aed6-bc4c19f378ee"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T171054Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T171054Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T171054Z","end":"20250123T172518Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T172518Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T172518Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T172518Z","end":"20250123T174332Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T174332Z","tags":["description:discuss engineering design with Jay","project:ADM","uuid:fb2cbff7-481c-4d4f-aed6-bc4c19f378ee"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T174332Z","tags":["description:discuss engineering design with Jay","project:ADM","uuid:fb2cbff7-481c-4d4f-aed6-bc4c19f378ee"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T174332Z","end":"20250123T175031Z","tags":["description:discuss engineering design with Jay","project:ADM","uuid:fb2cbff7-481c-4d4f-aed6-bc4c19f378ee"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T175031Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T175031Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T175031Z","end":"20250123T185806Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T185806Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T185806Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T185806Z","end":"20250123T191349Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T191349Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T191349Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T191349Z","end":"20250123T193017Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T193017Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T193017Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T193017Z","end":"20250123T193923Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T193923Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T193923Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T193923Z","end":"20250123T194434Z","tags":["description:create memo for disk deburring","project:TIS","uuid:d123e638-693c-4de7-9208-472da3e30a35"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T194434Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T194434Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T194434Z","end":"20250123T194444Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T194444Z","tags":["description:order more scissors","project:TIS","uuid:7556731e-1105-4eb9-89a7-4ae5e20a1fb8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T194444Z","tags":["description:order more scissors","project:TIS","uuid:7556731e-1105-4eb9-89a7-4ae5e20a1fb8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T194444Z","end":"20250123T200107Z","tags":["description:order more scissors","project:TIS","uuid:7556731e-1105-4eb9-89a7-4ae5e20a1fb8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T200107Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T200107Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T200107Z","end":"20250123T205234Z","tags":["description:conduct TA on new base latch","project:TIS","uuid:3843566a-3421-47c5-98bb-2e2d9912091f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T205234Z","tags":["description:determine validation requirements","project:TIS","uuid:02196336-2326-443d-bada-0c9792ac1e1c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T205234Z","tags":["description:determine validation requirements","project:TIS","uuid:02196336-2326-443d-bada-0c9792ac1e1c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T205234Z","end":"20250123T211312Z","tags":["description:determine validation requirements","project:TIS","uuid:02196336-2326-443d-bada-0c9792ac1e1c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T211312Z","tags":["description:create PD for clincal lot","project:TIS","uuid:258c77b4-7811-48c8-a0c7-1c2c49729182"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T211312Z","tags":["description:create PD for clincal lot","project:TIS","uuid:258c77b4-7811-48c8-a0c7-1c2c49729182"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T211312Z","end":"20250123T211359Z","tags":["description:create PD for clincal lot","project:TIS","uuid:258c77b4-7811-48c8-a0c7-1c2c49729182"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T211359Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T211359Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T211359Z","end":"20250123T211635Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T211635Z","tags":["description:prep label adhesion testing documentation","project:CMT","uuid:210d7d97-5d53-410e-ab82-0f16abf3c456"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T211635Z","tags":["description:prep label adhesion testing documentation","project:CMT","uuid:210d7d97-5d53-410e-ab82-0f16abf3c456"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T211635Z","end":"20250123T214709Z","tags":["description:prep label adhesion testing documentation","project:CMT","uuid:210d7d97-5d53-410e-ab82-0f16abf3c456"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T133654Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T133654Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T133654Z","end":"20250124T134042Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T134042Z","tags":["description:fix chamfr listing","project:CHAMFR","uuid:598cf1eb-97ac-4655-bec7-6dc1aa08b256"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T134042Z","tags":["description:fix chamfr listing","project:CHAMFR","uuid:598cf1eb-97ac-4655-bec7-6dc1aa08b256"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T134042Z","end":"20250124T134407Z","tags":["description:fix chamfr listing","project:CHAMFR","uuid:598cf1eb-97ac-4655-bec7-6dc1aa08b256"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T134408Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T134408Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T134408Z","end":"20250124T134706Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T134706Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T134706Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T134706Z","end":"20250124T135128Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T135128Z","tags":["description:meet with Kayence","project:ADM","tag:meeting","uuid:f945e7d1-364f-40f7-b367-6c0113af10a1"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T135128Z","tags":["description:meet with Kayence","project:ADM","tag:meeting","uuid:f945e7d1-364f-40f7-b367-6c0113af10a1"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T135128Z","end":"20250124T145016Z","tags":["description:meet with Kayence","project:ADM","tag:meeting","uuid:f945e7d1-364f-40f7-b367-6c0113af10a1"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T145016Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T145016Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T145016Z","end":"20250124T150437Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T150440Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T150440Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T150440Z","end":"20250124T151802Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T151802Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T151802Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T151802Z","end":"20250124T152039Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T152039Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T152039Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T152039Z","end":"20250124T160644Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T160644Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T160644Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T160644Z","end":"20250124T161021Z","tags":["description:get part counts for Amos","project:COV","uuid:f646d180-c052-403c-b784-f3c3d91d8a11"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T161021Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T161021Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T161021Z","end":"20250124T161747Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T161747Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T161747Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T161747Z","end":"20250124T163208Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T163208Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T163208Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T163208Z","end":"20250124T165406Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T165406Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T165406Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T165406Z","end":"20250124T172150Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T174145Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T174145Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T174145Z","end":"20250124T190010Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T190010Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T190010Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T190010Z","end":"20250124T191441Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T191442Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T191442Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T191442Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:b8242f5c-1392-41db-b1e8-c436339f76db"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T191442Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:b8242f5c-1392-41db-b1e8-c436339f76db"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T191442Z","end":"20250124T191813Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:b8242f5c-1392-41db-b1e8-c436339f76db"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T191813Z","tags":["description:look at what was planned for invoice types","project:CELOXIS","uuid:1efd41d9-f2b6-416e-88b3-40f66a3e0340"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T191813Z","tags":["description:look at what was planned for invoice types","project:CELOXIS","uuid:1efd41d9-f2b6-416e-88b3-40f66a3e0340"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T191813Z","end":"20250124T192518Z","tags":["description:look at what was planned for invoice types","project:CELOXIS","uuid:1efd41d9-f2b6-416e-88b3-40f66a3e0340"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T192518Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T192518Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T192518Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:b8242f5c-1392-41db-b1e8-c436339f76db"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T192518Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:b8242f5c-1392-41db-b1e8-c436339f76db"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T192518Z","end":"20250124T194703Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:b8242f5c-1392-41db-b1e8-c436339f76db"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T194703Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T194703Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T194703Z","end":"20250124T195033Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T195033Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T195033Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T195033Z","end":"20250124T200313Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T200313Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T200313Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T200313Z","end":"20250124T200944Z","tags":["description:generate scope change for 9042","project:TIS","uuid:9ab2e013-ecaf-4f66-a2c2-0f74de3884f7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T200944Z","tags":["description:discuss EU distribution with Eliza","project:CHAMFR","uuid:7c2222f6-b4b2-49e6-871e-5642d55b38fe"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T200944Z","tags":["description:discuss EU distribution with Eliza","project:CHAMFR","uuid:7c2222f6-b4b2-49e6-871e-5642d55b38fe"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T200944Z","end":"20250124T201800Z","tags":["description:discuss EU distribution with Eliza","project:CHAMFR","uuid:7c2222f6-b4b2-49e6-871e-5642d55b38fe"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T201800Z","tags":["description:fix roll cutter so symetric","project:CHAMFR","uuid:913feef5-0466-4bc8-b947-9b62f04d8540"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T201800Z","tags":["description:fix roll cutter so symetric","project:CHAMFR","uuid:913feef5-0466-4bc8-b947-9b62f04d8540"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T201800Z","end":"20250124T202831Z","tags":["description:fix roll cutter so symetric","project:CHAMFR","uuid:913feef5-0466-4bc8-b947-9b62f04d8540"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250124T202831Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250124T202831Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250124T202831Z","end":"20250124T213221Z","tags":["description:organize CAD folder","project:COV","uuid:09abf0d7-5919-4540-91a4-dbd4f67e0f14"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T133136Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T133136Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T133136Z","end":"20250127T134103Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T134103Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T134103Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T134103Z","end":"20250127T134855Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T134855Z","tags":["description:Submit timesheet","project:ADM","uuid:207ecdad-889d-43d6-94bf-d2c6bdfff178"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T134855Z","tags":["description:Submit timesheet","project:ADM","uuid:207ecdad-889d-43d6-94bf-d2c6bdfff178"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T134855Z","tags":["description:Submit timesheet","project:ADM","uuid:8a4c999e-28e5-43a3-bf51-ac60890b30a7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T134855Z","tags":["description:Submit timesheet","project:ADM","uuid:8a4c999e-28e5-43a3-bf51-ac60890b30a7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T134855Z","end":"20250127T140607Z","tags":["description:Submit timesheet","project:ADM","uuid:8a4c999e-28e5-43a3-bf51-ac60890b30a7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T140607Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T140607Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T140607Z","tags":["description:approve timesheets","project:ADM","uuid:7f20c317-a5e2-40ca-9c10-3ea279c49103"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T140607Z","tags":["description:approve timesheets","project:ADM","uuid:7f20c317-a5e2-40ca-9c10-3ea279c49103"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T140607Z","end":"20250127T141200Z","tags":["description:approve timesheets","project:ADM","uuid:7f20c317-a5e2-40ca-9c10-3ea279c49103"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T141426Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T141426Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T141426Z","end":"20250127T142606Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T142606Z","tags":["description:release protocol","project:TIS","uuid:52a52cf8-f85d-4cb8-8b17-e869412a787b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T142606Z","tags":["description:release protocol","project:TIS","uuid:52a52cf8-f85d-4cb8-8b17-e869412a787b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T142606Z","end":"20250127T143130Z","tags":["description:release protocol","project:TIS","uuid:52a52cf8-f85d-4cb8-8b17-e869412a787b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T143131Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T143131Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T143131Z","end":"20250127T144246Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T144246Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T144246Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T144246Z","end":"20250127T144650Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T144650Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T144650Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T144650Z","end":"20250127T145305Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T145305Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T145305Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T145305Z","end":"20250127T153644Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T153644Z","tags":["description:fix roll cutter so symetric","project:CHAMFR","uuid:913feef5-0466-4bc8-b947-9b62f04d8540"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T153644Z","tags":["description:fix roll cutter so symetric","project:CHAMFR","uuid:913feef5-0466-4bc8-b947-9b62f04d8540"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T153644Z","end":"20250127T155506Z","tags":["description:fix roll cutter so symetric","project:CHAMFR","uuid:913feef5-0466-4bc8-b947-9b62f04d8540"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T155506Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T155506Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T155506Z","end":"20250127T155748Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T155748Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T155748Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T155748Z","end":"20250127T161014Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T161014Z","tags":["description:Approve fixture drawings","project:TIS","uuid:cd781d2b-d99d-4fd6-b91b-d5a4bbefc094"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T161014Z","tags":["description:Approve fixture drawings","project:TIS","uuid:cd781d2b-d99d-4fd6-b91b-d5a4bbefc094"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T161014Z","end":"20250127T161550Z","tags":["description:Approve fixture drawings","project:TIS","uuid:cd781d2b-d99d-4fd6-b91b-d5a4bbefc094"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T161550Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T161550Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T161550Z","end":"20250127T163654Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T163654Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T163654Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T163654Z","end":"20250127T163859Z","tags":["description:have Amos sign updated drawings","project:COV","uuid:4ad9437d-36bf-471f-9656-416cb40768ce"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T163859Z","tags":["description:fix chamfr listing","project:CHAMFR","uuid:598cf1eb-97ac-4655-bec7-6dc1aa08b256"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T163859Z","tags":["description:fix chamfr listing","project:CHAMFR","uuid:598cf1eb-97ac-4655-bec7-6dc1aa08b256"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T163859Z","end":"20250127T164204Z","tags":["description:fix chamfr listing","project:CHAMFR","uuid:598cf1eb-97ac-4655-bec7-6dc1aa08b256"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T164204Z","tags":["description:fix single project selection","project:CELOXIS","uuid:36f4ea27-fb2f-4dc6-9165-a4ec8dd230ca"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T164204Z","tags":["description:fix single project selection","project:CELOXIS","uuid:36f4ea27-fb2f-4dc6-9165-a4ec8dd230ca"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T164204Z","end":"20250127T164210Z","tags":["description:fix single project selection","project:CELOXIS","uuid:36f4ea27-fb2f-4dc6-9165-a4ec8dd230ca"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T164210Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T164210Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T164210Z","end":"20250127T164650Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T164651Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T164651Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T164651Z","end":"20250127T165826Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T172000Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T172000Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T172000Z","end":"20250127T174837Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T174837Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T174837Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T174837Z","end":"20250127T174848Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T174848Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T174848Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T174848Z","end":"20250127T175701Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T175701Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T175701Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T175701Z","end":"20250127T181111Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T181111Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T181111Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T181111Z","end":"20250127T190315Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T190315Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T190315Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T190315Z","end":"20250127T195230Z","tags":["description:verify part numbers and docs align","project:CHAMFR","uuid:923a81f2-827a-4b5b-a3a0-5cf20e88ad4b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T195230Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T195230Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T195230Z","end":"20250127T200140Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T200140Z","tags":["description:create reject stock for project use","project:CHAMFR","uuid:38b7df98-d02a-4ecf-bd34-8a23a7e69de9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T200140Z","tags":["description:create reject stock for project use","project:CHAMFR","uuid:38b7df98-d02a-4ecf-bd34-8a23a7e69de9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T200140Z","end":"20250127T200617Z","tags":["description:create reject stock for project use","project:CHAMFR","uuid:38b7df98-d02a-4ecf-bd34-8a23a7e69de9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T200619Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T200619Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T200619Z","end":"20250127T201303Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T201303Z","tags":["description:order hypotubes","project:CHAMFR","uuid:9f15e438-f809-4d20-824d-ae17cc58eec7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T201303Z","tags":["description:order hypotubes","project:CHAMFR","uuid:9f15e438-f809-4d20-824d-ae17cc58eec7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T201303Z","end":"20250127T202442Z","tags":["description:order hypotubes","project:CHAMFR","uuid:9f15e438-f809-4d20-824d-ae17cc58eec7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T202442Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T202442Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T202442Z","end":"20250127T203308Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T203308Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T203308Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T203308Z","end":"20250127T204143Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T204143Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T204143Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T204143Z","end":"20250127T204158Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T204158Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T204158Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T204158Z","end":"20250127T211138Z","tags":["description:Finish DV build","project:TIS","uuid:d2f52319-43b1-471a-b079-287214bb0af5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250127T211138Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250127T211138Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250127T211138Z","end":"20250127T215949Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T132620Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T132620Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T132620Z","end":"20250128T132959Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T132959Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T132959Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T132959Z","end":"20250128T133101Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T133101Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T133101Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T133101Z","end":"20250128T133341Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T133346Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T133346Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T133346Z","end":"20250128T134740Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T134740Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T134740Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T134740Z","end":"20250128T135211Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T135211Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T135211Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T135211Z","tags":["description:approve timesheets","project:ADM","uuid:7f20c317-a5e2-40ca-9c10-3ea279c49103"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T135211Z","tags":["description:approve timesheets","project:ADM","uuid:7f20c317-a5e2-40ca-9c10-3ea279c49103"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T135211Z","end":"20250128T140014Z","tags":["description:approve timesheets","project:ADM","uuid:7f20c317-a5e2-40ca-9c10-3ea279c49103"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T140014Z","tags":["description:TIS Huddle","project:TIS","tag:meeting","uuid:407a6d5e-9437-4a00-8984-278d9daa3767"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T140014Z","tags":["description:TIS Huddle","project:TIS","tag:meeting","uuid:407a6d5e-9437-4a00-8984-278d9daa3767"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T140014Z","end":"20250128T142751Z","tags":["description:TIS Huddle","project:TIS","tag:meeting","uuid:407a6d5e-9437-4a00-8984-278d9daa3767"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T142751Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:579ec294-8188-43a9-8f22-61912bac39a6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T142751Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:579ec294-8188-43a9-8f22-61912bac39a6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T142751Z","end":"20250128T142752Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:579ec294-8188-43a9-8f22-61912bac39a6"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T142752Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:163bf287-b26e-4016-aeb6-9b28eaaa3ba4"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T142752Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:163bf287-b26e-4016-aeb6-9b28eaaa3ba4"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T142752Z","end":"20250128T151441Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:163bf287-b26e-4016-aeb6-9b28eaaa3ba4"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T151508Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T151508Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T151508Z","end":"20250128T154859Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T154859Z","tags":["description:inspect packaging","project:TIS","uuid:942a8c81-cf3b-4997-807f-73bd633ffd81"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T154859Z","tags":["description:inspect packaging","project:TIS","uuid:942a8c81-cf3b-4997-807f-73bd633ffd81"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T154859Z","end":"20250128T155543Z","tags":["description:inspect packaging","project:TIS","uuid:942a8c81-cf3b-4997-807f-73bd633ffd81"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T155543Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T155543Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T155543Z","end":"20250128T160527Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T160527Z","tags":["description:release 3year aging protocol","project:CMT","uuid:eb610131-6c91-4572-b628-f06f782e4eaa"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T160527Z","tags":["description:release 3year aging protocol","project:CMT","uuid:eb610131-6c91-4572-b628-f06f782e4eaa"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T160527Z","end":"20250128T160753Z","tags":["description:release 3year aging protocol","project:CMT","uuid:eb610131-6c91-4572-b628-f06f782e4eaa"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T160753Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T160753Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T160753Z","end":"20250128T160802Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T160802Z","tags":["description:ask QA consulting about sterilization quality agreement","project:CMT","tag:next","uuid:31fc454a-e9d6-42c1-9201-290673745d77"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T160802Z","tags":["description:ask QA consulting about sterilization quality agreement","project:CMT","tag:next","uuid:31fc454a-e9d6-42c1-9201-290673745d77"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T160802Z","end":"20250128T161151Z","tags":["description:ask QA consulting about sterilization quality agreement","project:CMT","tag:next","uuid:31fc454a-e9d6-42c1-9201-290673745d77"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T161151Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T161151Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T161151Z","end":"20250128T161834Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T161834Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T161834Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T161834Z","end":"20250128T162924Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T162924Z","tags":["description:release protocol","project:TIS","uuid:52a52cf8-f85d-4cb8-8b17-e869412a787b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T162924Z","tags":["description:release protocol","project:TIS","uuid:52a52cf8-f85d-4cb8-8b17-e869412a787b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T162924Z","end":"20250128T163513Z","tags":["description:release protocol","project:TIS","uuid:52a52cf8-f85d-4cb8-8b17-e869412a787b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T163514Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T163514Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T163514Z","end":"20250128T163853Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T170333Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T170333Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T170333Z","end":"20250128T170908Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T170908Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T170908Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T170908Z","end":"20250128T172107Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T172107Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T172107Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T172107Z","end":"20250128T175800Z","tags":["description:get gen 1.2 inventory counts and move to quarantine","project:CMT","uuid:5c54a6f7-3a20-43dc-9d0d-3bf324e76290"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T175800Z","tags":["description:lot label discussion","project:CMT","tag:meeting","uuid:61d639f8-ac97-4621-947c-f3b1122d8223"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T175800Z","tags":["description:lot label discussion","project:CMT","tag:meeting","uuid:61d639f8-ac97-4621-947c-f3b1122d8223"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T175800Z","end":"20250128T181319Z","tags":["description:lot label discussion","project:CMT","tag:meeting","uuid:61d639f8-ac97-4621-947c-f3b1122d8223"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T181319Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T181319Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T181319Z","end":"20250128T181659Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T181700Z","tags":["description:prep label adhesion testing documentation","project:CMT","uuid:210d7d97-5d53-410e-ab82-0f16abf3c456"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T181700Z","tags":["description:prep label adhesion testing documentation","project:CMT","uuid:210d7d97-5d53-410e-ab82-0f16abf3c456"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T181700Z","end":"20250128T182206Z","tags":["description:prep label adhesion testing documentation","project:CMT","uuid:210d7d97-5d53-410e-ab82-0f16abf3c456"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T182206Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T182206Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T182206Z","end":"20250128T183416Z","tags":["description:manufacture 9Fr catheters","project:CHAMFR","uuid:c5e75ede-9a00-4d1e-a40b-ab05292b13b9"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T183416Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T183416Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T183416Z","end":"20250128T192810Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T192812Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T192812Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T192812Z","end":"20250128T194208Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T194208Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T194208Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T194208Z","end":"20250128T200713Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T200713Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T200713Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T200713Z","end":"20250128T205810Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T205810Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T205810Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T205810Z","end":"20250128T210427Z","tags":["description:update packaging reference numbers for seaboard","project:TIS","uuid:54beae05-dd31-4535-ae82-18e4d35e3949"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T210428Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T210428Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T210428Z","end":"20250128T211002Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T211002Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T211002Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T211002Z","end":"20250128T214057Z","tags":["description:bill time outside of range and check how billable is invoiced","project:CELOXIS","uuid:493db65d-aebe-4ff7-b001-7d6c27a77859"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250128T214057Z","tags":["description:update 9042 team roster","project:TIS","uuid:0db3f7d0-d9ed-4d68-9000-1db0b3ba08d2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250128T214057Z","tags":["description:update 9042 team roster","project:TIS","uuid:0db3f7d0-d9ed-4d68-9000-1db0b3ba08d2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250128T214057Z","end":"20250128T214802Z","tags":["description:update 9042 team roster","project:TIS","uuid:0db3f7d0-d9ed-4d68-9000-1db0b3ba08d2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T133728Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T133728Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T133728Z","end":"20250129T134846Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T134848Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T134848Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T134848Z","end":"20250129T140534Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T140541Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T140541Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T140541Z","end":"20250129T140845Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T140845Z","tags":["description:approve blade inspection","project:TIS","uuid:86c3dca9-0b48-4c4d-a503-ec4a29457091"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T140845Z","tags":["description:approve blade inspection","project:TIS","uuid:86c3dca9-0b48-4c4d-a503-ec4a29457091"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T140845Z","end":"20250129T143245Z","tags":["description:approve blade inspection","project:TIS","uuid:86c3dca9-0b48-4c4d-a503-ec4a29457091"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T143245Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T143245Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T143245Z","end":"20250129T143731Z","tags":["description:create label validation memo","project:CMT","uuid:f201a24f-666b-4763-8d9a-51f2e0c81578"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T143731Z","tags":["description:Write bullets","project:ADM","uuid:5824792a-acf7-4ce8-b171-a163215317d9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T143731Z","tags":["description:Write bullets","project:ADM","uuid:5824792a-acf7-4ce8-b171-a163215317d9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T143731Z","tags":["description:Write bullets","project:ADM","uuid:36f5766f-5034-4310-9898-1c1a9c8d5363"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T143731Z","tags":["description:Write bullets","project:ADM","uuid:36f5766f-5034-4310-9898-1c1a9c8d5363"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T143731Z","end":"20250129T145912Z","tags":["description:Write bullets","project:ADM","uuid:36f5766f-5034-4310-9898-1c1a9c8d5363"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T145912Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T145912Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T145912Z","end":"20250129T151048Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T151048Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:43e70e94-c56f-41e2-a9a8-eee8f330e0dd"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T151048Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:43e70e94-c56f-41e2-a9a8-eee8f330e0dd"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T151048Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:afb25c35-613e-40c3-91a2-8a79e9469367"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T151048Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:afb25c35-613e-40c3-91a2-8a79e9469367"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T151048Z","end":"20250129T163624Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:afb25c35-613e-40c3-91a2-8a79e9469367"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T163624Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T163624Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T163624Z","end":"20250129T164141Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T164141Z","tags":["description:develop concept for sensors","project:CLS","uuid:87013d27-f881-412c-96e7-f01e7a036460"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T164141Z","tags":["description:develop concept for sensors","project:CLS","uuid:87013d27-f881-412c-96e7-f01e7a036460"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T164141Z","end":"20250129T164144Z","tags":["description:develop concept for sensors","project:CLS","uuid:87013d27-f881-412c-96e7-f01e7a036460"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T164144Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T164144Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T164144Z","end":"20250129T165043Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T171910Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T171910Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T171910Z","end":"20250129T173243Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T173243Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T173243Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T173243Z","end":"20250129T180747Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T180747Z","tags":["description:discuss BNU labeling with Nathalie","project:CMT","uuid:60a02a3e-e09d-459d-add6-08be3b4661e2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T180747Z","tags":["description:discuss BNU labeling with Nathalie","project:CMT","uuid:60a02a3e-e09d-459d-add6-08be3b4661e2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T180747Z","end":"20250129T181456Z","tags":["description:discuss BNU labeling with Nathalie","project:CMT","uuid:60a02a3e-e09d-459d-add6-08be3b4661e2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T181457Z","tags":["description:kickoff training","project:CHAMFR","tag:Anna","uuid:023e5fe5-fae7-412c-9155-b85e17d5799f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T181457Z","tags":["description:kickoff training","project:CHAMFR","tag:Anna","uuid:023e5fe5-fae7-412c-9155-b85e17d5799f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T181457Z","end":"20250129T182056Z","tags":["description:kickoff training","project:CHAMFR","tag:Anna","uuid:023e5fe5-fae7-412c-9155-b85e17d5799f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T182056Z","tags":["description:discuss BNU labeling with Nathalie","project:CMT","uuid:60a02a3e-e09d-459d-add6-08be3b4661e2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T182056Z","tags":["description:discuss BNU labeling with Nathalie","project:CMT","uuid:60a02a3e-e09d-459d-add6-08be3b4661e2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T182056Z","end":"20250129T182604Z","tags":["description:discuss BNU labeling with Nathalie","project:CMT","uuid:60a02a3e-e09d-459d-add6-08be3b4661e2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T182604Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T182604Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T182604Z","end":"20250129T182957Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T182957Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T182957Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T182957Z","end":"20250129T183402Z","tags":["description:investigate shelf box glue failure","project:TIS","uuid:e4db895b-5edc-43ad-bc17-cddce59de94d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T183402Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T183402Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T183402Z","end":"20250129T184546Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T184546Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T184546Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T184546Z","end":"20250129T193950Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T193950Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T193950Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T193950Z","end":"20250129T195104Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T195104Z","tags":["description:inspect packaging","project:TIS","uuid:942a8c81-cf3b-4997-807f-73bd633ffd81"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T195104Z","tags":["description:inspect packaging","project:TIS","uuid:942a8c81-cf3b-4997-807f-73bd633ffd81"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T195104Z","end":"20250129T195306Z","tags":["description:inspect packaging","project:TIS","uuid:942a8c81-cf3b-4997-807f-73bd633ffd81"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T195306Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T195306Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T195306Z","end":"20250129T205201Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T205201Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T205201Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T205201Z","end":"20250129T210027Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T210028Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T210028Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T210028Z","end":"20250129T210304Z","tags":["description:enter cables into inventory","project:CMT","uuid:9a30089b-57b3-4dcc-a38b-b15de4cadbbc"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T210305Z","tags":["description:help peter with long term resourcing program","project:CELOXIS","uuid:9367910f-a47c-4da9-bc05-6e0a3e24636e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250129T210305Z","tags":["description:help peter with long term resourcing program","project:CELOXIS","uuid:9367910f-a47c-4da9-bc05-6e0a3e24636e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250129T210305Z","end":"20250129T223636Z","tags":["description:help peter with long term resourcing program","project:CELOXIS","uuid:9367910f-a47c-4da9-bc05-6e0a3e24636e"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250130T133410Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250130T133410Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250130T133410Z","end":"20250130T133628Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250130T133628Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250130T133628Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250130T133628Z","end":"20250130T133949Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250130T133949Z","tags":["description:sign annual review documents","project:ADM","uuid:d24cd2b7-ff55-4d7e-b6b1-5cbc886e5b43"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250130T133949Z","tags":["description:sign annual review documents","project:ADM","uuid:d24cd2b7-ff55-4d7e-b6b1-5cbc886e5b43"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250130T133949Z","end":"20250130T134254Z","tags":["description:sign annual review documents","project:ADM","uuid:d24cd2b7-ff55-4d7e-b6b1-5cbc886e5b43"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250130T134254Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250130T134254Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250130T134254Z","end":"20250130T134646Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250130T134646Z","tags":["description:sign annual review documents","project:ADM","uuid:d24cd2b7-ff55-4d7e-b6b1-5cbc886e5b43"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250130T134646Z","tags":["description:sign annual review documents","project:ADM","uuid:d24cd2b7-ff55-4d7e-b6b1-5cbc886e5b43"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250130T134646Z","end":"20250130T134851Z","tags":["description:sign annual review documents","project:ADM","uuid:d24cd2b7-ff55-4d7e-b6b1-5cbc886e5b43"]}
