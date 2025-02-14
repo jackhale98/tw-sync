@@ -8252,3 +8252,184 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250213T214901Z","end":"20250213T220940Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T130551Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T130551Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T130551Z","end":"20250214T132720Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T132720Z","tags":["description:file quality plan","project:LUM","uuid:933a7f79-1cba-45ab-97e2-bef89171b127"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T132720Z","tags":["description:file quality plan","project:LUM","uuid:933a7f79-1cba-45ab-97e2-bef89171b127"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T132720Z","end":"20250214T133728Z","tags":["description:file quality plan","project:LUM","uuid:933a7f79-1cba-45ab-97e2-bef89171b127"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T133728Z","tags":["description:finalize commercial release action items","project:TIS","uuid:780daa0c-08cb-46e3-a265-648f48a8076d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T133728Z","tags":["description:finalize commercial release action items","project:TIS","uuid:780daa0c-08cb-46e3-a265-648f48a8076d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T133728Z","end":"20250214T134004Z","tags":["description:finalize commercial release action items","project:TIS","uuid:780daa0c-08cb-46e3-a265-648f48a8076d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T134004Z","tags":["description:discuss expiration extension with Dave","project:LUM","uuid:c14a95fa-872e-474e-839c-5905b2734636"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T134004Z","tags":["description:discuss expiration extension with Dave","project:LUM","uuid:c14a95fa-872e-474e-839c-5905b2734636"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T134004Z","end":"20250214T141427Z","tags":["description:discuss expiration extension with Dave","project:LUM","uuid:c14a95fa-872e-474e-839c-5905b2734636"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T141431Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T141431Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T141431Z","end":"20250214T143230Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T143230Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T143230Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T143230Z","end":"20250214T162511Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T162512Z","tags":["description:materials discussion with protolabs","project:CMT","tag:meeting","uuid:ba84d9d3-77a1-4ddb-a138-785e72999b48"]}
+txn:
+  type: interval
+  before: {"id":2,"start":"20250214T143230Z","end":"20250214T162511Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":2,"start":"20250214T143230Z","end":"20250214T160011Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+txn:
+  type: interval
+  before: {"id":2,"start":"20250214T143230Z","end":"20250214T160011Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":2,"start":"20250214T143230Z","end":"20250214T155911Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T162512Z","tags":["description:materials discussion with protolabs","project:CMT","tag:meeting","uuid:ba84d9d3-77a1-4ddb-a138-785e72999b48"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T160000Z","tags":["description:materials discussion with protolabs","project:CMT","tag:meeting","uuid:ba84d9d3-77a1-4ddb-a138-785e72999b48"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T160000Z","tags":["description:materials discussion with protolabs","project:CMT","tag:meeting","uuid:ba84d9d3-77a1-4ddb-a138-785e72999b48"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T160000Z","end":"20250214T170210Z","tags":["description:materials discussion with protolabs","project:CMT","tag:meeting","uuid:ba84d9d3-77a1-4ddb-a138-785e72999b48"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T170210Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T170210Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T170210Z","end":"20250214T173442Z","tags":["description:determine RTA requirements","project:LUM","uuid:7c8d0342-2c7f-4f10-bfea-737be19fad37"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T175949Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T175949Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T175949Z","end":"20250214T182028Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T182028Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T182028Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T182028Z","end":"20250214T182545Z","tags":["description:Update Case MPIs","project:CMT","uuid:37fee4d8-e126-4d96-b36b-ce1c62740356"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T182545Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T182545Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T182545Z","end":"20250214T193011Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T193011Z","tags":["description:resource planning","project:ADM","tag:meeting","uuid:8c9834f4-04cb-4ee1-af3a-ff10863e1859"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T193011Z","tags":["description:resource planning","project:ADM","tag:meeting","uuid:8c9834f4-04cb-4ee1-af3a-ff10863e1859"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T193011Z","tags":["description:resource planning","project:ADM","tag:meeting","uuid:9e6c1aa9-4d31-433a-9913-1cd2e3e9f44f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T193011Z","tags":["description:resource planning","project:ADM","tag:meeting","uuid:9e6c1aa9-4d31-433a-9913-1cd2e3e9f44f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T193011Z","end":"20250214T194902Z","tags":["description:resource planning","project:ADM","tag:meeting","uuid:9e6c1aa9-4d31-433a-9913-1cd2e3e9f44f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T194902Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T194902Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T194902Z","end":"20250214T203014Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250214T203014Z","tags":["description:finalize commercial release action items","project:TIS","uuid:780daa0c-08cb-46e3-a265-648f48a8076d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250214T203014Z","tags":["description:finalize commercial release action items","project:TIS","uuid:780daa0c-08cb-46e3-a265-648f48a8076d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250214T203014Z","end":"20250214T212857Z","tags":["description:finalize commercial release action items","project:TIS","uuid:780daa0c-08cb-46e3-a265-648f48a8076d"]}
