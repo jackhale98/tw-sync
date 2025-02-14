@@ -7019,3 +7019,1236 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250207T025646Z","end":"20250207T030638Z","tags":["description:update resume for GIW","project:ADM","uuid:debcf6a7-7f5c-440f-8fab-abbb8096f135"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T132927Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T132927Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T132927Z","end":"20250207T134141Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T134144Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T134144Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T134144Z","end":"20250207T135405Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T135405Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T135405Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T135405Z","end":"20250207T135853Z","tags":["description:order resin from MHolland","project:CMT","uuid:97a5395c-eeeb-4766-819e-bdd115b8c549"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T135853Z","tags":["description:Review GIW support proposal","project:ADM","uuid:fce82007-df33-4b9c-8334-543191bba2e7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T135853Z","tags":["description:Review GIW support proposal","project:ADM","uuid:fce82007-df33-4b9c-8334-543191bba2e7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T135853Z","end":"20250207T140202Z","tags":["description:Review GIW support proposal","project:ADM","uuid:fce82007-df33-4b9c-8334-543191bba2e7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T140202Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T140202Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T140202Z","end":"20250207T140614Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T140614Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T140614Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T140614Z","end":"20250207T144145Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T144145Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T144145Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T144145Z","end":"20250207T145921Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T145922Z","tags":["description:Sage x Circinus Logistics","project:CMT","tag:meeting","uuid:2c6debc1-c965-4c7c-aaa6-45dcb474ef51"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T145922Z","tags":["description:Sage x Circinus Logistics","project:CMT","tag:meeting","uuid:2c6debc1-c965-4c7c-aaa6-45dcb474ef51"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T145922Z","end":"20250207T153501Z","tags":["description:Sage x Circinus Logistics","project:CMT","tag:meeting","uuid:2c6debc1-c965-4c7c-aaa6-45dcb474ef51"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T153501Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T153501Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T153501Z","end":"20250207T153530Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T153530Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T153530Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T153530Z","end":"20250207T154326Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T154326Z","tags":["description:determine adhesive shelf life","project:LUM","uuid:a61820f6-4853-4216-9f8a-539a623b8e8f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T154326Z","tags":["description:determine adhesive shelf life","project:LUM","uuid:a61820f6-4853-4216-9f8a-539a623b8e8f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T154326Z","end":"20250207T154737Z","tags":["description:determine adhesive shelf life","project:LUM","uuid:a61820f6-4853-4216-9f8a-539a623b8e8f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T154737Z","tags":["description:check dionizer","project:CHAMFR","uuid:6de19766-003e-4d8d-9afb-db31743dd5af"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T154737Z","tags":["description:check dionizer","project:CHAMFR","uuid:6de19766-003e-4d8d-9afb-db31743dd5af"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T154737Z","end":"20250207T155757Z","tags":["description:check dionizer","project:CHAMFR","uuid:6de19766-003e-4d8d-9afb-db31743dd5af"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T155757Z","tags":["description:GIW Meet and Greet","project:GIW","tag:meeting","uuid:da102544-b5e2-4f7a-ba5d-7aef8b2a5e00"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T155757Z","tags":["description:GIW Meet and Greet","project:GIW","tag:meeting","uuid:da102544-b5e2-4f7a-ba5d-7aef8b2a5e00"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T155757Z","end":"20250207T163642Z","tags":["description:GIW Meet and Greet","project:GIW","tag:meeting","uuid:da102544-b5e2-4f7a-ba5d-7aef8b2a5e00"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T163642Z","tags":["description:determine adhesive shelf life","project:LUM","uuid:a61820f6-4853-4216-9f8a-539a623b8e8f"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T163642Z","tags":["description:determine adhesive shelf life","project:LUM","uuid:a61820f6-4853-4216-9f8a-539a623b8e8f"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T163642Z","end":"20250207T164728Z","tags":["description:determine adhesive shelf life","project:LUM","uuid:a61820f6-4853-4216-9f8a-539a623b8e8f"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T164728Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T164728Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T164728Z","end":"20250207T165442Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T165443Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T165443Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T165443Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:2321819b-a46d-4609-b2f6-ba29a03ffeaa"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T165443Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:2321819b-a46d-4609-b2f6-ba29a03ffeaa"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T165443Z","end":"20250207T165956Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:2321819b-a46d-4609-b2f6-ba29a03ffeaa"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T165957Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T165957Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T165957Z","end":"20250207T172134Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T173414Z","tags":["description:look into celoxis version 15","project:CELOXIS","uuid:564c5faf-8974-4041-9f7b-9325648330ab"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T173414Z","tags":["description:look into celoxis version 15","project:CELOXIS","uuid:564c5faf-8974-4041-9f7b-9325648330ab"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T173414Z","end":"20250207T174315Z","tags":["description:look into celoxis version 15","project:CELOXIS","uuid:564c5faf-8974-4041-9f7b-9325648330ab"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T174315Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T174315Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T174315Z","end":"20250207T174849Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T174849Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T174849Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T174849Z","end":"20250207T175533Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T175533Z","tags":["description:provide mfg schedule to jeff","project:ADM","uuid:cfc0770e-deeb-40fa-9112-6ec35c6c1bf2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T175533Z","tags":["description:provide mfg schedule to jeff","project:ADM","uuid:cfc0770e-deeb-40fa-9112-6ec35c6c1bf2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T175533Z","end":"20250207T180449Z","tags":["description:provide mfg schedule to jeff","project:ADM","uuid:cfc0770e-deeb-40fa-9112-6ec35c6c1bf2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T180449Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T180449Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T180449Z","end":"20250207T185511Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T185511Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T185511Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T185511Z","end":"20250207T193052Z","tags":["description:look at improving budget reporting","project:CELOXIS","uuid:b054e909-bf17-4614-b1fb-55f8e0b8d64a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T193052Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T193052Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:17026cd5-cc11-4a42-a422-90f489095bfb"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T193052Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:2321819b-a46d-4609-b2f6-ba29a03ffeaa"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T193052Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:2321819b-a46d-4609-b2f6-ba29a03ffeaa"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T193052Z","end":"20250207T195906Z","tags":["description:Resource Planning","project:ADM","tag:meeting","uuid:2321819b-a46d-4609-b2f6-ba29a03ffeaa"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T195906Z","tags":["description:review required MPI updates","project:CHAMFR","uuid:65b6de80-9275-4fd3-b6ec-88f4c21a18fb"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T195906Z","tags":["description:review required MPI updates","project:CHAMFR","uuid:65b6de80-9275-4fd3-b6ec-88f4c21a18fb"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T195906Z","end":"20250207T201610Z","tags":["description:review required MPI updates","project:CHAMFR","uuid:65b6de80-9275-4fd3-b6ec-88f4c21a18fb"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T201610Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T201610Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T201610Z","end":"20250207T202614Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250207T202614Z","tags":["description:create PO upload program","project:CELOXIS","uuid:346c4376-c70b-431b-95fd-827f18288cf6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250206T223000Z","end":"20250206T224500Z","tags":["Fix lost chamfr package"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250207T202614Z","tags":["description:create PO upload program","project:CELOXIS","uuid:346c4376-c70b-431b-95fd-827f18288cf6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250207T202614Z","end":"20250207T211451Z","tags":["description:create PO upload program","project:CELOXIS","uuid:346c4376-c70b-431b-95fd-827f18288cf6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T134848Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T134848Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T134848Z","end":"20250210T135429Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T135431Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T135431Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T135431Z","end":"20250210T140931Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T140931Z","tags":["description:Submit timesheet","project:ADM","uuid:207ecdad-889d-43d6-94bf-d2c6bdfff178"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T140931Z","tags":["description:Submit timesheet","project:ADM","uuid:207ecdad-889d-43d6-94bf-d2c6bdfff178"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T140931Z","tags":["description:Submit timesheet","project:ADM","uuid:6e1fcf0e-aeca-4f78-be43-f519d622c5e7"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T140931Z","tags":["description:Submit timesheet","project:ADM","uuid:6e1fcf0e-aeca-4f78-be43-f519d622c5e7"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T140931Z","end":"20250210T142632Z","tags":["description:Submit timesheet","project:ADM","uuid:6e1fcf0e-aeca-4f78-be43-f519d622c5e7"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T142632Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T142632Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T142632Z","tags":["description:approve timesheets","project:ADM","uuid:1a3fe7aa-5e43-4df8-ac32-07c15e93f3e6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T142632Z","tags":["description:approve timesheets","project:ADM","uuid:1a3fe7aa-5e43-4df8-ac32-07c15e93f3e6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T142632Z","end":"20250210T142903Z","tags":["description:approve timesheets","project:ADM","uuid:1a3fe7aa-5e43-4df8-ac32-07c15e93f3e6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T142903Z","tags":["description:Share resume for MFG role","project:ADM","uuid:47a5a651-48ea-4c47-b669-5ee1e1dff7aa"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T142903Z","tags":["description:Share resume for MFG role","project:ADM","uuid:47a5a651-48ea-4c47-b669-5ee1e1dff7aa"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T142903Z","end":"20250210T143225Z","tags":["description:Share resume for MFG role","project:ADM","uuid:47a5a651-48ea-4c47-b669-5ee1e1dff7aa"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T143225Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T143225Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T143225Z","end":"20250210T144232Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T144232Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T144232Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T144232Z","end":"20250210T151012Z","tags":["description:fix gen 1 EU labels","project:CMT","uuid:2f58cd8f-48fb-4719-8f37-978afa863ac6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T151012Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T151012Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T151012Z","end":"20250210T151839Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T151839Z","tags":["description:send receipts to Katelyn","project:CHAMFR","uuid:67ac9efa-1eff-42fe-854a-87ec83663e3c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T151839Z","tags":["description:send receipts to Katelyn","project:CHAMFR","uuid:67ac9efa-1eff-42fe-854a-87ec83663e3c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T151839Z","end":"20250210T152918Z","tags":["description:send receipts to Katelyn","project:CHAMFR","uuid:67ac9efa-1eff-42fe-854a-87ec83663e3c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T152918Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T152918Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T152918Z","end":"20250210T153536Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T153536Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T153536Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T153536Z","end":"20250210T154504Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T154504Z","tags":["description:look into vision system calibration","project:ADM","uuid:b2b9f17f-be13-462a-9501-f4011f773037"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T154504Z","tags":["description:look into vision system calibration","project:ADM","uuid:b2b9f17f-be13-462a-9501-f4011f773037"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T154504Z","end":"20250210T160025Z","tags":["description:look into vision system calibration","project:ADM","uuid:b2b9f17f-be13-462a-9501-f4011f773037"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T160025Z","tags":["description:Utilization Checkin with Jeff","project:ADM","tag:meeting","uuid:6a9fc192-5f4a-4bed-aa7a-e16d27abe274"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T160025Z","tags":["description:Utilization Checkin with Jeff","project:ADM","tag:meeting","uuid:6a9fc192-5f4a-4bed-aa7a-e16d27abe274"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T160025Z","end":"20250210T163744Z","tags":["description:Utilization Checkin with Jeff","project:ADM","tag:meeting","uuid:6a9fc192-5f4a-4bed-aa7a-e16d27abe274"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T163744Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T163744Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T163744Z","end":"20250210T164058Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T164058Z","tags":["description:fix utilization amount bug","project:CELOXIS","tag:next","uuid:acb9c374-9b14-484d-ae20-15c4fe99b100"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T164058Z","tags":["description:fix utilization amount bug","project:CELOXIS","tag:next","uuid:acb9c374-9b14-484d-ae20-15c4fe99b100"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T164058Z","end":"20250210T170453Z","tags":["description:fix utilization amount bug","project:CELOXIS","tag:next","uuid:acb9c374-9b14-484d-ae20-15c4fe99b100"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T170453Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T170453Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T170453Z","end":"20250210T170650Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T170650Z","tags":["description:complete NCR for liners","project:CHAMFR","uuid:7d9f2043-e361-45aa-ac9e-06fdb3a6ea98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T170650Z","tags":["description:complete NCR for liners","project:CHAMFR","uuid:7d9f2043-e361-45aa-ac9e-06fdb3a6ea98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T170650Z","end":"20250210T171815Z","tags":["description:complete NCR for liners","project:CHAMFR","uuid:7d9f2043-e361-45aa-ac9e-06fdb3a6ea98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T171815Z","tags":["description:fix utilization amount bug","project:CELOXIS","tag:next","uuid:acb9c374-9b14-484d-ae20-15c4fe99b100"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T171815Z","tags":["description:fix utilization amount bug","project:CELOXIS","tag:next","uuid:acb9c374-9b14-484d-ae20-15c4fe99b100"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T171815Z","end":"20250210T173407Z","tags":["description:fix utilization amount bug","project:CELOXIS","tag:next","uuid:acb9c374-9b14-484d-ae20-15c4fe99b100"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T173407Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T173407Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T173407Z","end":"20250210T174033Z","tags":["description:share quality plan with Dave","project:LUM","uuid:411bb771-6fea-4be2-a0dd-f8d3150191d4"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T174033Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T174033Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T174033Z","end":"20250210T185254Z","tags":["description:Add YTD calculations","project:ADM.Celoxis","uuid:4048bc75-1f10-448c-aaad-c0866fa98e54"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T185254Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T185254Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T185254Z","end":"20250210T190142Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T190144Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T190144Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T190144Z","end":"20250210T191424Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T191424Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T191424Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T191424Z","end":"20250210T192232Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T192232Z","tags":["description:update commercial release eva","project:TIS","uuid:f220f939-f94d-4884-8467-d05d5d40c51d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T192232Z","tags":["description:update commercial release eva","project:TIS","uuid:f220f939-f94d-4884-8467-d05d5d40c51d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T192232Z","end":"20250210T193314Z","tags":["description:update commercial release eva","project:TIS","uuid:f220f939-f94d-4884-8467-d05d5d40c51d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T193314Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T193314Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T193314Z","end":"20250210T194037Z","tags":["description:perform IQ and peel testing for pouch sealing","project:CHAMFR","uuid:fb423ac3-10bd-4bac-b42f-cf838e567ac8"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T194037Z","tags":["description:project reviews","project:ADM","tag:meeting","uuid:72542aa8-a9e3-4cea-858e-be8a4e128df6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T194037Z","tags":["description:project reviews","project:ADM","tag:meeting","uuid:72542aa8-a9e3-4cea-858e-be8a4e128df6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T194037Z","end":"20250210T200513Z","tags":["description:project reviews","project:ADM","tag:meeting","uuid:72542aa8-a9e3-4cea-858e-be8a4e128df6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T200513Z","tags":["description:get chamber quote for labels","project:CMT","uuid:d7f73eac-6408-48b3-bbcf-84265bdc78a1"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T200513Z","tags":["description:get chamber quote for labels","project:CMT","uuid:d7f73eac-6408-48b3-bbcf-84265bdc78a1"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T200513Z","end":"20250210T201455Z","tags":["description:get chamber quote for labels","project:CMT","uuid:d7f73eac-6408-48b3-bbcf-84265bdc78a1"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T201455Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T201455Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T201455Z","end":"20250210T211016Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T211016Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T211016Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T211016Z","end":"20250210T215836Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250210T215836Z","tags":["description:get chamber quote for labels","project:CMT","uuid:d7f73eac-6408-48b3-bbcf-84265bdc78a1"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250210T215836Z","tags":["description:get chamber quote for labels","project:CMT","uuid:d7f73eac-6408-48b3-bbcf-84265bdc78a1"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250210T215836Z","end":"20250210T220524Z","tags":["description:get chamber quote for labels","project:CMT","uuid:d7f73eac-6408-48b3-bbcf-84265bdc78a1"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T132629Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":3,"start":"20250210T211016Z","end":"20250210T215836Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":3,"start":"20250210T211016Z","end":"20250210T214336Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T132629Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T132629Z","end":"20250211T133131Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T133133Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T133133Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T133133Z","end":"20250211T134537Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T134537Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T134537Z","tags":["description:prep for meeting","project:CMT","uuid:787ce9d3-9471-40f5-a8ce-04dd04c40b11"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T134537Z","tags":["description:prep for meeting","project:CMT","uuid:f383ae5d-a4bc-4495-9579-ebbebea88298"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T134537Z","tags":["description:prep for meeting","project:CMT","uuid:f383ae5d-a4bc-4495-9579-ebbebea88298"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T134537Z","end":"20250211T135527Z","tags":["description:prep for meeting","project:CMT","uuid:f383ae5d-a4bc-4495-9579-ebbebea88298"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T135527Z","tags":["description:train on test methods","project:TIS","uuid:6d7caa2d-07fc-4f00-b125-c1e4007e23a1"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T135527Z","tags":["description:train on test methods","project:TIS","uuid:6d7caa2d-07fc-4f00-b125-c1e4007e23a1"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T135527Z","end":"20250211T142439Z","tags":["description:train on test methods","project:TIS","uuid:6d7caa2d-07fc-4f00-b125-c1e4007e23a1"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T142439Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:579ec294-8188-43a9-8f22-61912bac39a6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T142439Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:579ec294-8188-43a9-8f22-61912bac39a6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T142439Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:80f714f5-6ca3-483b-8c7c-be557070a76b"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T142439Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:80f714f5-6ca3-483b-8c7c-be557070a76b"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T142439Z","end":"20250211T145941Z","tags":["description:Bolt Scrum","project:CMT","tag:meeting","uuid:80f714f5-6ca3-483b-8c7c-be557070a76b"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T145941Z","tags":["description:Team Huddle","project:TIS","tag:meeting","uuid:77f807d1-4feb-4576-b6d8-6a3299de3a50"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T145941Z","tags":["description:Team Huddle","project:TIS","tag:meeting","uuid:77f807d1-4feb-4576-b6d8-6a3299de3a50"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T145941Z","tags":["description:Team Huddle","project:TIS","tag:meeting","uuid:a3add69b-42d0-4a0d-aef3-d382d3f46c3e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T145941Z","tags":["description:Team Huddle","project:TIS","tag:meeting","uuid:a3add69b-42d0-4a0d-aef3-d382d3f46c3e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T145941Z","end":"20250211T153215Z","tags":["description:Team Huddle","project:TIS","tag:meeting","uuid:a3add69b-42d0-4a0d-aef3-d382d3f46c3e"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T153216Z","tags":["description:documentation update discussion","project:CHAMFR","tag:meeting","uuid:a2fd490e-fc38-487d-b01c-8117f9b2333c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T153216Z","tags":["description:documentation update discussion","project:CHAMFR","tag:meeting","uuid:a2fd490e-fc38-487d-b01c-8117f9b2333c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T153216Z","end":"20250211T160151Z","tags":["description:documentation update discussion","project:CHAMFR","tag:meeting","uuid:a2fd490e-fc38-487d-b01c-8117f9b2333c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T160151Z","tags":["description:adhesive discussion","project:LUM","uuid:32eff527-5bcc-404d-990b-b75f960116f0"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T160151Z","tags":["description:adhesive discussion","project:LUM","uuid:32eff527-5bcc-404d-990b-b75f960116f0"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T160151Z","end":"20250211T160803Z","tags":["description:adhesive discussion","project:LUM","uuid:32eff527-5bcc-404d-990b-b75f960116f0"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T160803Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T160803Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T160803Z","end":"20250211T164437Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T171012Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T171012Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T171012Z","end":"20250211T171512Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T171512Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T171512Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T171512Z","end":"20250211T173620Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T173620Z","tags":["description:inspect adhesive lined foam","project:CMT","uuid:113d8971-f916-4154-bc3a-167076ebf2b0"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T173620Z","tags":["description:inspect adhesive lined foam","project:CMT","uuid:113d8971-f916-4154-bc3a-167076ebf2b0"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T173620Z","end":"20250211T174751Z","tags":["description:inspect adhesive lined foam","project:CMT","uuid:113d8971-f916-4154-bc3a-167076ebf2b0"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T174752Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T174752Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T174752Z","end":"20250211T211000Z","tags":["description:Prepare for DV testing","project:TIS","uuid:189449e1-9039-4ea4-a5f5-5d501156e82d"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T211000Z","tags":["description:completed PD-25-003","project:CMT","uuid:e1e0aa08-2e8c-4585-877e-05a0c733bb77"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T211000Z","tags":["description:completed PD-25-003","project:CMT","uuid:e1e0aa08-2e8c-4585-877e-05a0c733bb77"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T211000Z","end":"20250211T212833Z","tags":["description:completed PD-25-003","project:CMT","uuid:e1e0aa08-2e8c-4585-877e-05a0c733bb77"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T212833Z","tags":["description:upload DV testing images","project:TIS","uuid:bb69daff-f181-4322-935e-4c66c6c1e6f2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T212833Z","tags":["description:upload DV testing images","project:TIS","uuid:bb69daff-f181-4322-935e-4c66c6c1e6f2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T212833Z","end":"20250211T213659Z","tags":["description:upload DV testing images","project:TIS","uuid:bb69daff-f181-4322-935e-4c66c6c1e6f2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T213659Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T213659Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T213659Z","end":"20250211T214547Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T214547Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T214547Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T214547Z","end":"20250211T214548Z","tags":["description:approve timesheets","project:ADM","uuid:b229d85e-4cd3-4c92-a2ad-25270546c62e"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T214548Z","tags":["description:approve timesheets","project:ADM","uuid:1a3fe7aa-5e43-4df8-ac32-07c15e93f3e6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T214548Z","tags":["description:approve timesheets","project:ADM","uuid:1a3fe7aa-5e43-4df8-ac32-07c15e93f3e6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T214548Z","end":"20250211T215113Z","tags":["description:approve timesheets","project:ADM","uuid:1a3fe7aa-5e43-4df8-ac32-07c15e93f3e6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T215113Z","tags":["description:inspect liners","project:CHAMFR","uuid:7151e91e-887f-4ddc-8dd0-d1a27aa035c5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T215113Z","tags":["description:inspect liners","project:CHAMFR","uuid:7151e91e-887f-4ddc-8dd0-d1a27aa035c5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T215113Z","end":"20250211T215348Z","tags":["description:inspect liners","project:CHAMFR","uuid:7151e91e-887f-4ddc-8dd0-d1a27aa035c5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T215348Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T215348Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T215348Z","end":"20250211T220243Z","tags":["description:Order and Calibrate sensor","project:CMT","tag:wait","uuid:a487a150-718b-48c5-93ad-2339266e210c"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250211T220244Z","tags":["description:inspect liners","project:CHAMFR","uuid:7151e91e-887f-4ddc-8dd0-d1a27aa035c5"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250211T220244Z","tags":["description:inspect liners","project:CHAMFR","uuid:7151e91e-887f-4ddc-8dd0-d1a27aa035c5"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250211T220244Z","end":"20250211T220438Z","tags":["description:inspect liners","project:CHAMFR","uuid:7151e91e-887f-4ddc-8dd0-d1a27aa035c5"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T133136Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T133136Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T133136Z","end":"20250212T133625Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T133627Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T133627Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T133627Z","end":"20250212T135448Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T135448Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T135448Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T135448Z","end":"20250212T135714Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T135714Z","tags":["description:Write bullets","project:ADM","uuid:5824792a-acf7-4ce8-b171-a163215317d9"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T135714Z","tags":["description:Write bullets","project:ADM","uuid:5824792a-acf7-4ce8-b171-a163215317d9"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T135714Z","tags":["description:Write bullets","project:ADM","uuid:ca0cefb4-a662-4cb2-9468-839c89e57b84"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T135714Z","tags":["description:Write bullets","project:ADM","uuid:ca0cefb4-a662-4cb2-9468-839c89e57b84"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T135714Z","end":"20250212T140444Z","tags":["description:Write bullets","project:ADM","uuid:ca0cefb4-a662-4cb2-9468-839c89e57b84"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T140444Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T140444Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T140444Z","end":"20250212T170916Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T173337Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T173337Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T173337Z","end":"20250212T175814Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T175814Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:43e70e94-c56f-41e2-a9a8-eee8f330e0dd"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T175814Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:43e70e94-c56f-41e2-a9a8-eee8f330e0dd"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T175814Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:b69fd3cc-1807-4b34-98a7-7d5e362b46d2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T175814Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:b69fd3cc-1807-4b34-98a7-7d5e362b46d2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T175814Z","end":"20250212T184756Z","tags":["description:TIS Team Meeting","project:TIS","tag:meeting","uuid:b69fd3cc-1807-4b34-98a7-7d5e362b46d2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T184756Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T184756Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T184756Z","end":"20250212T205629Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T205629Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T205629Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T205629Z","end":"20250212T210132Z","tags":["description:sort emails","project:ADM","uuid:1524d6da-b77c-413b-957e-ab0eacca9db2"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T210132Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T210132Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T210132Z","end":"20250212T211859Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T211859Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T211859Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T211859Z","end":"20250212T213024Z","tags":["description:submit dco 1010","project:CMT","uuid:392c0a41-2efc-4e7f-b51b-84194d12e449"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T213024Z","tags":["description:plan design transfer","project:TIS","uuid:cd86b7cf-4a8f-4d49-b75d-5c6663b19d50"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T213024Z","tags":["description:plan design transfer","project:TIS","uuid:cd86b7cf-4a8f-4d49-b75d-5c6663b19d50"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T213024Z","end":"20250212T213620Z","tags":["description:plan design transfer","project:TIS","uuid:cd86b7cf-4a8f-4d49-b75d-5c6663b19d50"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T213620Z","tags":["description:discuss inventory with taylor","project:ADM","uuid:86022128-b76e-4a87-91c7-90b95032f7ae"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T213620Z","tags":["description:discuss inventory with taylor","project:ADM","uuid:86022128-b76e-4a87-91c7-90b95032f7ae"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T213620Z","end":"20250212T215513Z","tags":["description:discuss inventory with taylor","project:ADM","uuid:86022128-b76e-4a87-91c7-90b95032f7ae"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250212T215513Z","tags":["description:approve gen 1 EU rework","project:CMT","uuid:3c29d95d-692a-45dc-b711-4de5010dd945"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250212T215513Z","tags":["description:approve gen 1 EU rework","project:CMT","uuid:3c29d95d-692a-45dc-b711-4de5010dd945"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250212T215513Z","end":"20250212T220340Z","tags":["description:approve gen 1 EU rework","project:CMT","uuid:3c29d95d-692a-45dc-b711-4de5010dd945"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T133720Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T133720Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T133720Z","end":"20250213T134322Z","tags":["description:Update todo list","project:ADM","uuid:e6948ed3-8663-41d5-ac27-62360fe3be98"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T134323Z","tags":["description:update rail","project:TIS","uuid:872d8e2d-feaf-4113-9ab4-445d889d9740"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T134323Z","tags":["description:update rail","project:TIS","uuid:872d8e2d-feaf-4113-9ab4-445d889d9740"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T134323Z","end":"20250213T135634Z","tags":["description:update rail","project:TIS","uuid:872d8e2d-feaf-4113-9ab4-445d889d9740"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T135638Z","tags":["bathroom"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T135638Z","tags":["bathroom"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T135638Z","end":"20250213T141139Z","tags":["bathroom"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T141139Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T141139Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T141139Z","end":"20250213T171959Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T171959Z","tags":["description:approve gen 1 EU rework","project:CMT","uuid:40a95292-43eb-4231-ba71-35ddc8f244f6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T171959Z","tags":["description:approve gen 1 EU rework","project:CMT","uuid:40a95292-43eb-4231-ba71-35ddc8f244f6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T171959Z","end":"20250213T173557Z","tags":["description:approve gen 1 EU rework","project:CMT","uuid:40a95292-43eb-4231-ba71-35ddc8f244f6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T174117Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T174117Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T174117Z","end":"20250213T174921Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T180422Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T180422Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T180422Z","end":"20250213T200113Z","tags":["description:conduct DV testing","project:TIS","tag:next","uuid:1cd05f84-0de8-40fd-abb1-4a048d0e56f6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T200113Z","tags":["description:create DV testing deviations","project:TIS","uuid:d21eb3f4-386b-4a8c-a82a-451f0e9ba6b6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T200113Z","tags":["description:create DV testing deviations","project:TIS","uuid:d21eb3f4-386b-4a8c-a82a-451f0e9ba6b6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T200113Z","end":"20250213T205403Z","tags":["description:create DV testing deviations","project:TIS","uuid:d21eb3f4-386b-4a8c-a82a-451f0e9ba6b6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T205403Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T205403Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T205403Z","end":"20250213T211954Z","tags":["description:create comparison slide deck for Alain","project:TIS","uuid:49e5e687-4c4b-434b-a58f-867125ed6111"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T211955Z","tags":["description:create DV testing deviations","project:TIS","uuid:d21eb3f4-386b-4a8c-a82a-451f0e9ba6b6"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T211955Z","tags":["description:create DV testing deviations","project:TIS","uuid:d21eb3f4-386b-4a8c-a82a-451f0e9ba6b6"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T211955Z","end":"20250213T212804Z","tags":["description:create DV testing deviations","project:TIS","uuid:d21eb3f4-386b-4a8c-a82a-451f0e9ba6b6"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T212804Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T212804Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T212804Z","end":"20250213T213719Z","tags":["description:look into mold change for main body bottom","project:TIS","uuid:e9dbde29-a3af-48ee-872f-478ec98d733a"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T213719Z","tags":["description:check filter inventory","project:TIS","uuid:72aab00c-3c50-4c3d-a594-97adb73551ae"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T213719Z","tags":["description:check filter inventory","project:TIS","uuid:72aab00c-3c50-4c3d-a594-97adb73551ae"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T213719Z","end":"20250213T214207Z","tags":["description:check filter inventory","project:TIS","uuid:72aab00c-3c50-4c3d-a594-97adb73551ae"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T214208Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T214208Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T214208Z","end":"20250213T214900Z","tags":["description:Approve disk inspection","project:TIS","uuid:9dbf8178-325a-4b80-b1f3-ca47166e6088"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250213T214901Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250213T214901Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250213T214901Z","end":"20250213T220940Z","tags":["description:inspect main body bottoms","project:TIS","uuid:222bff45-80c7-4542-9993-ce71228e6806"]}
